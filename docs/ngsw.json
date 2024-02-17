@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1708176320273,
+  "timestamp": 1708177749793,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -25,7 +25,7 @@
         "/foreign-reader/common.f438b4003a0209ef.js",
         "/foreign-reader/favicon.ico",
         "/foreign-reader/index.html",
-        "/foreign-reader/main.ab9a3729f4deaf74.js",
+        "/foreign-reader/main.117a7b0e8ccf25f6.js",
         "/foreign-reader/manifest.webmanifest",
         "/foreign-reader/polyfills.1b9bb103dfc92cdc.js",
         "/foreign-reader/runtime.7b291b6addd53fcb.js",
@@ -76,8 +76,8 @@
     "/foreign-reader/assets/icons/icon-96x96.png": "85b80e8435b090351b378aab4e98e1f6201b51a9",
     "/foreign-reader/common.f438b4003a0209ef.js": "4e39e0d27bb3b1b9d6de3dc51c44cbd4ab56fd04",
     "/foreign-reader/favicon.ico": "e5c9c1531bef198f986b3703c3e8a31ea54cfa01",
-    "/foreign-reader/index.html": "dff1333fba1cf58e4a51572c7473acf81311253f",
-    "/foreign-reader/main.ab9a3729f4deaf74.js": "0f61d33601b154a94648b412c39232a86142467d",
+    "/foreign-reader/index.html": "d3ce95bb40a977734abe67603862eadb3dbb60a6",
+    "/foreign-reader/main.117a7b0e8ccf25f6.js": "50f8169cad604c08375f1468824b0b8341001156",
     "/foreign-reader/manifest.webmanifest": "58d44c45aa311d7fac8a9869b6f72036ce1d1fb0",
     "/foreign-reader/polyfills.1b9bb103dfc92cdc.js": "4825133f6b0f9ffd0c6ae28938885dc7202ba54a",
     "/foreign-reader/runtime.7b291b6addd53fcb.js": "023610e749163573cfdc94fc8081594c5d50ca05",

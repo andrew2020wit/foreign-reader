@@ -1,5 +1,7 @@
 # Foreign Reader - the web-application to read foreign texts and learn languages.
 
+[https://andrew2020wit.github.io/foreign-reader/](https://andrew2020wit.github.io/foreign-reader/)
+
 This is a new version of former [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
 
 It's still under development

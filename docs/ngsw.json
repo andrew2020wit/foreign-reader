@@ -1,0 +1,105 @@
+{
+  "configVersion": 1,
+  "timestamp": 1708176320273,
+  "index": "/foreign-reader/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/foreign-reader/190.a8fd8050353c14ff.js",
+        "/foreign-reader/223.023d64eaf3ed2648.js",
+        "/foreign-reader/239.81c007a2895969e3.js",
+        "/foreign-reader/278.974164cdd777ac13.js",
+        "/foreign-reader/32.75ad16fed0b8546b.js",
+        "/foreign-reader/483.3d0835c39c201a84.js",
+        "/foreign-reader/518.b9fd0e03f988475b.js",
+        "/foreign-reader/553.d48041a19db0d675.js",
+        "/foreign-reader/854.4971b52e15c398cd.js",
+        "/foreign-reader/907.6f04a815348ce834.js",
+        "/foreign-reader/95.0adcd85765eba81e.js",
+        "/foreign-reader/common.f438b4003a0209ef.js",
+        "/foreign-reader/favicon.ico",
+        "/foreign-reader/index.html",
+        "/foreign-reader/main.ab9a3729f4deaf74.js",
+        "/foreign-reader/manifest.webmanifest",
+        "/foreign-reader/polyfills.1b9bb103dfc92cdc.js",
+        "/foreign-reader/runtime.7b291b6addd53fcb.js",
+        "/foreign-reader/styles.f0b94a5d0bf9ccf7.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/foreign-reader/assets/icons/icon-128x128.png",
+        "/foreign-reader/assets/icons/icon-144x144.png",
+        "/foreign-reader/assets/icons/icon-152x152.png",
+        "/foreign-reader/assets/icons/icon-192x192.png",
+        "/foreign-reader/assets/icons/icon-384x384.png",
+        "/foreign-reader/assets/icons/icon-512x512.png",
+        "/foreign-reader/assets/icons/icon-72x72.png",
+        "/foreign-reader/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/foreign-reader/190.a8fd8050353c14ff.js": "9c6aeb03187a59cde58f4a54329a08261ee580cf",
+    "/foreign-reader/223.023d64eaf3ed2648.js": "6b1923a445016595e7b041602dc51e8caa8f9de8",
+    "/foreign-reader/239.81c007a2895969e3.js": "0084e8917b52fce5bf78870595d151a03040ddd8",
+    "/foreign-reader/278.974164cdd777ac13.js": "d910f94fa234ef8e0e6c09e794e137624b1999d1",
+    "/foreign-reader/32.75ad16fed0b8546b.js": "5ae5fdc02cf1098b68d9e515d777dc7cc3432472",
+    "/foreign-reader/483.3d0835c39c201a84.js": "880195c0119bf7591df0da86eab2df61d23101d3",
+    "/foreign-reader/518.b9fd0e03f988475b.js": "46efdbac8abfa91c925aaae17acb9610dc27f9f3",
+    "/foreign-reader/553.d48041a19db0d675.js": "2e711eca0a0c9177100f315241f48fc01cd03495",
+    "/foreign-reader/854.4971b52e15c398cd.js": "270752a1a777489e85c342ecabef86d0ab0f439a",
+    "/foreign-reader/907.6f04a815348ce834.js": "77ac75023719ea2e4ab7ff533a8d69773aba639e",
+    "/foreign-reader/95.0adcd85765eba81e.js": "7aeac2d7b4a4792c6a9d6c549427c5dcb855c601",
+    "/foreign-reader/assets/icons/icon-128x128.png": "0bafd1714f4a27ca0bddc556b61517670a2ccc58",
+    "/foreign-reader/assets/icons/icon-144x144.png": "50dc8a72fbf098497ceb24ab9d976ec236641b4d",
+    "/foreign-reader/assets/icons/icon-152x152.png": "c5d48d76c143e64c60742db5613544f1745f4a8e",
+    "/foreign-reader/assets/icons/icon-192x192.png": "2ef4813100d8f9d99b9920ba34e2843399497faf",
+    "/foreign-reader/assets/icons/icon-384x384.png": "cc9736a5c927be8cedd9becb600f0c500ce8309c",
+    "/foreign-reader/assets/icons/icon-512x512.png": "9f29a5c8fe33680f6fb6c708670a5dd3e26c08fe",
+    "/foreign-reader/assets/icons/icon-72x72.png": "55674fbc4edaac6652405db69d6c64d288e73feb",
+    "/foreign-reader/assets/icons/icon-96x96.png": "85b80e8435b090351b378aab4e98e1f6201b51a9",
+    "/foreign-reader/common.f438b4003a0209ef.js": "4e39e0d27bb3b1b9d6de3dc51c44cbd4ab56fd04",
+    "/foreign-reader/favicon.ico": "e5c9c1531bef198f986b3703c3e8a31ea54cfa01",
+    "/foreign-reader/index.html": "dff1333fba1cf58e4a51572c7473acf81311253f",
+    "/foreign-reader/main.ab9a3729f4deaf74.js": "0f61d33601b154a94648b412c39232a86142467d",
+    "/foreign-reader/manifest.webmanifest": "58d44c45aa311d7fac8a9869b6f72036ce1d1fb0",
+    "/foreign-reader/polyfills.1b9bb103dfc92cdc.js": "4825133f6b0f9ffd0c6ae28938885dc7202ba54a",
+    "/foreign-reader/runtime.7b291b6addd53fcb.js": "023610e749163573cfdc94fc8081594c5d50ca05",
+    "/foreign-reader/styles.f0b94a5d0bf9ccf7.css": "3e5d12bc52b41c4808891f4d2295545380d56854"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

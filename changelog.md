@@ -1,3 +1,3 @@
-# Bilingua Dealer: Changelog
+# Foreign Reader: Changelog
 
-- 2024.02.15 You can use "*" to search in dictionary.
+- 2024.02.17 Foreign Reader is created.

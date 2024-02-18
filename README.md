@@ -19,6 +19,18 @@ for it. And then check settings.
 
 ## Information
 
+## Urls-tip
+
+You can use:
+
+https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?term=%s
+
+https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?translate=%s
+
+with [selection-search chrome-extension](https://chromewebstore.google.com/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)
+
+(see its settings)
+
 ### Hot-keys
 
 GoHome: 'Home', ShowMenu: '0', 'Escape', GoToNextItem: 'n', MarkIt: '1',

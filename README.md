@@ -17,7 +17,10 @@ Added: Google-translate integration. You have to install locally
 [proxy-translation-server](https://github.com/andrew2020wit/proxy-translation-server)
 for it. And then check settings.
 
-## Information
+## Translation tip
+
+You can use autotranslating for a selected text in a book,
+but you have to release mouse button within text block (within grey border) to trigger selection-event.
 
 ## Urls-tip
 

@@ -2,25 +2,77 @@
 
 [https://andrew2020wit.github.io/foreign-reader/](https://andrew2020wit.github.io/foreign-reader/)
 
-This is a new version of former [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
+It's still under development. At the moment it doesn't support small screens (mobile).
 
-It's still under development
+## Functionality
 
-## Deference from  "Bilingua Dealer"
+You can open a plain text file (UTF-8 encoding).
+This text will be converted into inner format
+and stored locally in you web-browser storage (IDB-storage).
 
-Removed useless functionality: fragments, speech-engine, translated text (bilingua mode),
-creating bilingua, subtitle-imports.
+This application optimized to work with very big text files.
 
-It doesn't support small screens (mobile), because I don't fink it would be useful.
+The text is shown to be easily to read, with large text-size and good font.
+You can customize appearance (text size, colors and other). 
 
-Added: Google-translate integration. You have to install locally
+It supports multiple bookmarks and automatically remember last position.
+
+It provides integration with google-translation.
+
+It can be integrated with outer dictionary (like GoldenDict) via auto-coping to clipboard.
+
+It has built-in dictionary viewer, which support json-format dictionaries.
+Some tools and dictionary was created to support json-format dictionaries.
+
+It has a functionality for memory-cards like Anki-card.
+You can easily create memory-cards (by one click) from dictionary-examples or from current google-translation.
+
+## YouTube intro
+
+ToDo
+
+### Dictionary functionality
+
+#### go to Settings
+
+- Load morphology.json and morphology-replace-rules.json. See: [dictionary](https://github.com/andrew2020wit/foreign-reader/tree/master/dictionary)
+- Load main-dictionary. See "wordset-with-tr.json": [dictionary](https://github.com/andrew2020wit/foreign-reader/tree/master/dictionary)
+- Turn-on dictionary-functionality.
+
+#### There are some tools to convert dsl and mdx dictionaries to json, but they are specific for the certain dictionary.
+
+See also:
+
+Parser for Lingvo en-ru dsl-dictionary: [https://github.com/andrew2020wit/dsl-dictionary-parser](https://github.com/andrew2020wit/dsl-dictionary-parser)
+
+Some utils (uniter and other) are also there.
+
+Parser for Cambridge Advanced Learner's Dictionary 4th, mdx format: [https://github.com/andrew2020wit/cald-mdx-to-json](https://github.com/andrew2020wit/cald-mdx-to-json)
+
+#### Morphology Replace Rules
+
+See about morphology-replace-rules [here](https://github.com/andrew2020wit/foreign-reader/tree/master/dictionary/utils)
+
+You can define you own Morphology Replace Rules.
+
+index: index for replacement ( - 1 => from end)
+
+See example /dictionary/morphology-replace-rules.json
+
+And see /dictionary/utils/compute-morphology-rule(.spec).ts
+
+## Translation
+
+You have to install and run locally
 [proxy-translation-server](https://github.com/andrew2020wit/proxy-translation-server)
 for it. And then check settings.
 
-## Translation tip
-
-You can use autotranslating for a selected text in a book,
+You can use auto-translating for a selected text in a book,
 but you have to release mouse button within text block (within grey border) to trigger selection-event.
+
+## Favorite Examples - is similar to Anki functionality.
+
+It shows only first 1000 favorite examples (sorted by ToDoTime);
 
 ## Urls-tip
 
@@ -51,40 +103,18 @@ Translation direction - "row" will replace original and translation.
 
 Color primary/accent/warn - for buttons.
 
-### Dictionary functionality
+## Deference from  "Bilingua Dealer"
 
-Settings => load a morphology-dictionary, main-dictionary. Turn-on dictionary.
+This is a new version of former [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
 
-I use the Lingvo+Longman-dictionaries, but I cannot share them because of copyright.
+Removed useless functionality: fragments, speech-engine, translated text (bilingua mode),
+creating bilingua, subtitle-imports.
 
-You can get free Wordset-dictionary (wordset-with-tr.json) from here:
-
-[https://github.com/andrew2020wit/bilingua-dealer/tree/master/dictionary](https://github.com/andrew2020wit/bilingua-dealer/tree/master/dictionary)
-
-You also have to load morphology.json and morphology-replace-rules.json.
-
-See also:
-
-[https://github.com/andrew2020wit/dsl-dictionary-parser](https://github.com/andrew2020wit/dsl-dictionary-parser)
-
-[https://github.com/andrew2020wit/cald-mdx-to-json](https://github.com/andrew2020wit/cald-mdx-to-json)
-
-At the moment Dictionary functionality isn't  optimized for mobile (small screens). You have to use a large screen.
-
-It shows only first 1000 favorite examples (sorted by ToDoTime);
-
-#### Morphology Replace Rules
-
-You can define you own Morphology Replace Rules.
-
-index: index for replacement ( - 1 => from end)
-
-See example /dictionary/morphology-replace-rules.json
-
-And see /dictionary/utils/compute-morphology-rule(.spec).ts
+Added: Google-translate integration.
 
 ### Changelog
 
+[Changelog](https://github.com/andrew2020wit/foreign-reader/blob/master/changelog.md)
 
 ## Licence
 

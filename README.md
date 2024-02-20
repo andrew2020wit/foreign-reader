@@ -21,7 +21,7 @@ It provides integration with google-translation.
 
 It can be integrated with outer dictionary (like GoldenDict) via auto-coping to clipboard.
 
-It has built-in dictionary viewer, which support json-format dictionaries.
+It has a built-in dictionary viewer, which support json-format dictionaries.
 Some tools and dictionary was created to support json-format dictionaries.
 
 It has a functionality for memory-cards like Anki-card.

@@ -25,7 +25,7 @@ It has a built-in dictionary viewer, which support json-format dictionaries.
 Some tools and dictionary was created to support json-format dictionaries.
 
 It has a functionality for memory-cards like Anki-card.
-You can easily create memory-cards (by one click) from dictionary-examples or from current google-translation.
+You can easily create memory-cards (by one click) from dictionary-examples.
 
 ## YouTube intro
 
@@ -111,8 +111,6 @@ This is a new version of former [Bilingua Dealer](https://github.com/andrew2020w
 
 Removed useless functionality: fragments, speech-engine, translated text (bilingua mode),
 creating bilingua, subtitle-imports.
-
-Added: Google-translate integration.
 
 ### Changelog
 

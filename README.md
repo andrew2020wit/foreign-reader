@@ -17,7 +17,7 @@ You can customize appearance (text size, colors and other).
 
 It supports multiple bookmarks and automatically remember last position.
 
-It provides integration with google-translation.
+It provides integration with translation.
 
 It can be integrated with outer dictionary (like GoldenDict) via auto-coping to clipboard.
 
@@ -63,12 +63,14 @@ And see /dictionary/utils/compute-morphology-rule(.spec).ts
 
 ## Translation
 
-You have to install and run locally
-[proxy-translation-server](https://github.com/andrew2020wit/proxy-translation-server)
-for it. And then check settings.
+For the translation you can:
 
-You can use auto-translating for a selected text in a book,
-but you have to release mouse button within text block (within grey border) to trigger selection-event.
+- go to menu (in book) - translation tab
+- export for translation - it will create a special text file
+- you have to translate it with google-translate (for documents).
+- import the translation (the same format).
+
+Then you can click on lines to see translation.
 
 ## Favorite Examples - is similar to Anki functionality.
 

@@ -70,7 +70,8 @@ For the translation you can:
 - you have to translate it with google-translate (for documents).
 - import the translation (the same format).
 
-Then you can click on lines to see translation.
+Then you can click on lines to see translation. 
+(Translation-button at the top must be on)
 
 ## Favorite Examples - is similar to Anki functionality.
 

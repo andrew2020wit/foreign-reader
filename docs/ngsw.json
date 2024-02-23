@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1708610063156,
+  "timestamp": 1708670516640,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -25,7 +25,7 @@
         "/foreign-reader/common.bbc76689ec8828b2.js",
         "/foreign-reader/favicon.ico",
         "/foreign-reader/index.html",
-        "/foreign-reader/main.4d5ac567d0b8b0ac.js",
+        "/foreign-reader/main.95e8b6e47208d0ae.js",
         "/foreign-reader/manifest.webmanifest",
         "/foreign-reader/polyfills.d7223f73d3c0df36.js",
         "/foreign-reader/runtime.97573dab83f971ea.js",
@@ -76,8 +76,8 @@
     "/foreign-reader/assets/icons/icon-96x96.png": "85b80e8435b090351b378aab4e98e1f6201b51a9",
     "/foreign-reader/common.bbc76689ec8828b2.js": "44cae8878e28a3a034bae370466c83c5b245051b",
     "/foreign-reader/favicon.ico": "e5c9c1531bef198f986b3703c3e8a31ea54cfa01",
-    "/foreign-reader/index.html": "0b6b7cde568e6085eeee0b9d352e125a5f97c2a9",
-    "/foreign-reader/main.4d5ac567d0b8b0ac.js": "6a0cb1357b0421957a6f595a325ad09c1f8bb238",
+    "/foreign-reader/index.html": "b1bc4a997a1a4f23d60d7e48ba0eddfb88a23d55",
+    "/foreign-reader/main.95e8b6e47208d0ae.js": "9fe5e61f1bf4302d201729659e68feaee91454db",
     "/foreign-reader/manifest.webmanifest": "58d44c45aa311d7fac8a9869b6f72036ce1d1fb0",
     "/foreign-reader/polyfills.d7223f73d3c0df36.js": "3715987a9a0592fcc65cfbe17efa2ea913331b6c",
     "/foreign-reader/runtime.97573dab83f971ea.js": "7f4bc6a7ad27880d1de9e685b64418df801a8b6b",

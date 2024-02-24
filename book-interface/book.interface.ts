@@ -2,18 +2,19 @@ export interface IBook {
   id: string;
   title: string;
   description: string;
-  content: IBookContent[];
-  markedItems: IBookContent['id'][];
+  content: IBookParagraph[];
+  translation?: Record<string, string>;
+  markedItems: IBookParagraph['id'][];
   headers: IBookHeader[];
 }
 
-export interface IBookContent {
+export interface IBookParagraph {
   id: number;
-  text: string;
+  text: string[];
 }
 
 export type IBookHeader = {
-  id: IBookContent['id'];
+  id: IBookParagraph['id'];
   isMarked: boolean;
   text: string;
 };
@@ -21,6 +22,11 @@ export type IBookHeader = {
 export interface IDBBookContent {
   id: IBook['id'];
   content: IBook['content'];
+}
+
+export interface IDBBookTranslation {
+  id: IBook['id'];
+  translation: IBook['translation'];
 }
 
 export interface IDBBookTitle {

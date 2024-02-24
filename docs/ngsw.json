@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1708752456118,
+  "timestamp": 1708766192175,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -41,14 +41,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/foreign-reader/assets/icons/icon-128x128.png",
-        "/foreign-reader/assets/icons/icon-144x144.png",
-        "/foreign-reader/assets/icons/icon-152x152.png",
         "/foreign-reader/assets/icons/icon-192x192.png",
-        "/foreign-reader/assets/icons/icon-384x384.png",
-        "/foreign-reader/assets/icons/icon-512x512.png",
-        "/foreign-reader/assets/icons/icon-72x72.png",
-        "/foreign-reader/assets/icons/icon-96x96.png"
+        "/foreign-reader/assets/icons/icon-48x48.ico",
+        "/foreign-reader/assets/icons/icon-512x512.png"
       ],
       "patterns": []
     }
@@ -66,19 +61,14 @@
     "/foreign-reader/762.0a832882f330b23e.js": "d656a6e42f22e83df7276c6f9a8ebd3d70f731ea",
     "/foreign-reader/854.be8d447e985a0b46.js": "f8be4f169bae82de8e3f9e1a4a57bec93addf94a",
     "/foreign-reader/907.6b2ba01d16983f29.js": "e9d0a924e371dbeecdfb74e8ba97d51b02c42856",
-    "/foreign-reader/assets/icons/icon-128x128.png": "0bafd1714f4a27ca0bddc556b61517670a2ccc58",
-    "/foreign-reader/assets/icons/icon-144x144.png": "50dc8a72fbf098497ceb24ab9d976ec236641b4d",
-    "/foreign-reader/assets/icons/icon-152x152.png": "c5d48d76c143e64c60742db5613544f1745f4a8e",
-    "/foreign-reader/assets/icons/icon-192x192.png": "2ef4813100d8f9d99b9920ba34e2843399497faf",
-    "/foreign-reader/assets/icons/icon-384x384.png": "cc9736a5c927be8cedd9becb600f0c500ce8309c",
-    "/foreign-reader/assets/icons/icon-512x512.png": "9f29a5c8fe33680f6fb6c708670a5dd3e26c08fe",
-    "/foreign-reader/assets/icons/icon-72x72.png": "55674fbc4edaac6652405db69d6c64d288e73feb",
-    "/foreign-reader/assets/icons/icon-96x96.png": "85b80e8435b090351b378aab4e98e1f6201b51a9",
+    "/foreign-reader/assets/icons/icon-192x192.png": "40beea40f600d55bdbe7d011b0a11ee3695d9338",
+    "/foreign-reader/assets/icons/icon-48x48.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
+    "/foreign-reader/assets/icons/icon-512x512.png": "66e7ea4f09dc06c11635d8c3f2980e044e79d579",
     "/foreign-reader/common.bbc76689ec8828b2.js": "44cae8878e28a3a034bae370466c83c5b245051b",
-    "/foreign-reader/favicon.ico": "e5c9c1531bef198f986b3703c3e8a31ea54cfa01",
+    "/foreign-reader/favicon.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
     "/foreign-reader/index.html": "49117f80be36c54afa61643f3ba5c4700c44f7d3",
     "/foreign-reader/main.95e8b6e47208d0ae.js": "9fe5e61f1bf4302d201729659e68feaee91454db",
-    "/foreign-reader/manifest.webmanifest": "58d44c45aa311d7fac8a9869b6f72036ce1d1fb0",
+    "/foreign-reader/manifest.webmanifest": "c253d6391d3ba503a9d2e54ee971da6a6eed5714",
     "/foreign-reader/polyfills.d7223f73d3c0df36.js": "3715987a9a0592fcc65cfbe17efa2ea913331b6c",
     "/foreign-reader/runtime.2e7d3d40df1c32b7.js": "b003abe5986b0270be98fb31feeacdd1d1944c26",
     "/foreign-reader/styles.ac86d779b7c8e7d5.css": "3512f3d7f15fb2fc50e43a9a6c205ba66d236f3f"

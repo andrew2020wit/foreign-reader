@@ -72,6 +72,9 @@ For the translation you can:
 Then you can click on lines to see translation. 
 (Translation-button at the top must be on)
 
+In some rare cases google spoils ids. You can check the browser console at importing: there might be warning about some ids.
+Actually it isn't a big problem. 
+
 ## Favorite Examples - is similar to Anki functionality.
 
 It shows only first 1000 favorite examples (sorted by ToDoTime);

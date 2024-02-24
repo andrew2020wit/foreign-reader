@@ -2,7 +2,6 @@
 
 [https://andrew2020wit.github.io/foreign-reader/](https://andrew2020wit.github.io/foreign-reader/)
 
-It's still under development. At the moment it doesn't support small screens (mobile).
 
 ## Functionality
 
@@ -77,6 +76,13 @@ Then you can click on lines to see translation.
 
 It shows only first 1000 favorite examples (sorted by ToDoTime);
 
+## Mobile
+
+If screen width < 1000px then it is in mobile mode.
+Use double click (touch) to show pop-up dictionary.
+
+Use customization to adjust font-size.
+
 ## Urls-tip
 
 You can use:
@@ -98,11 +104,9 @@ ShowTranslation: '2', EditChapterTitle: '9', GoToNextMark: 'm'.
 
 Custom styles are applied only to the book-page.
 
+You can use any css-values.
+
 Accent colors are related to headers.
-
-Flex width - defines proportion for original text and translation.
-
-Translation direction - "row" will replace original and translation.
 
 Color primary/accent/warn - for buttons.
 

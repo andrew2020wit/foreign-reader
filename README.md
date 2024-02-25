@@ -28,7 +28,7 @@ You can easily create memory-cards (by one click) from dictionary-examples.
 
 ## YouTube intro
 
-ToDo
+[https://youtu.be/1YP31gjr-Es](https://youtu.be/1YP31gjr-Es)
 
 ### Dictionary functionality
 

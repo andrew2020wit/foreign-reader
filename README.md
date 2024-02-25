@@ -101,7 +101,7 @@ with [selection-search chrome-extension](https://chromewebstore.google.com/detai
 ### Hot-keys
 
 GoHome: 'Home', ShowMenu: '0', 'Escape', GoToNextItem: 'n', MarkIt: '1',
-ShowTranslation: '2', EditChapterTitle: '9', GoToNextMark: 'm'.
+EditChapterTitle: '9', GoToNextMark: 'm'.
 
 ### About some custom styles
 

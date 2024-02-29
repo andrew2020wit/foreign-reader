@@ -1,5 +1,6 @@
 # Foreign Reader: Changelog
 
+- 2024.02.29 background-image
 - 2024.02.25 GoToPrevMark: k - key. 
 - 2024.02.24 Mobile: pop-up dictionary
 - 2024.02.21 Book format is changed.

@@ -113,8 +113,12 @@ Accent colors are related to headers.
 
 Color primary/accent/warn - for buttons.
 
-Background: you can use [these](https://github.com/andrew2020wit/foreign-reader/tree/master/docs/assets/background)
+#### Background
+
+You can use [these](https://github.com/andrew2020wit/foreign-reader/tree/master/docs/assets/background)
 or other.
+
+Like: "url(https://andrew2020wit.github.io/foreign-reader/assets/background/fancy-deboss.png)" or "none"
 
 ## Deference from  "Bilingua Dealer"
 

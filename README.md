@@ -113,6 +113,9 @@ Accent colors are related to headers.
 
 Color primary/accent/warn - for buttons.
 
+Background: you can use [these](https://github.com/andrew2020wit/foreign-reader/tree/master/docs/assets/background)
+or other.
+
 ## Deference from  "Bilingua Dealer"
 
 This is a new version of former [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)

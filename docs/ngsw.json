@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1709217268920,
+  "timestamp": 1709217790153,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -22,14 +22,14 @@
         "/foreign-reader/762.1e356bc5c0509742.js",
         "/foreign-reader/854.be8d447e985a0b46.js",
         "/foreign-reader/907.41cfa3d1fde1cc2e.js",
-        "/foreign-reader/common.60d0fb5f6258c6c7.js",
+        "/foreign-reader/common.a817d67cba718461.js",
         "/foreign-reader/favicon.ico",
         "/foreign-reader/index.html",
         "/foreign-reader/main.95e8b6e47208d0ae.js",
         "/foreign-reader/manifest.webmanifest",
         "/foreign-reader/polyfills.d7223f73d3c0df36.js",
-        "/foreign-reader/runtime.587e73aed247cb18.js",
-        "/foreign-reader/styles.4ec749e5c4c1c81a.css"
+        "/foreign-reader/runtime.1c3afc6c48a31083.js",
+        "/foreign-reader/styles.9dbcef8efaa4303c.css"
       ],
       "patterns": []
     },
@@ -80,14 +80,14 @@
     "/foreign-reader/assets/icons/icon-192x192.png": "40beea40f600d55bdbe7d011b0a11ee3695d9338",
     "/foreign-reader/assets/icons/icon-48x48.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
     "/foreign-reader/assets/icons/icon-512x512.png": "66e7ea4f09dc06c11635d8c3f2980e044e79d579",
-    "/foreign-reader/common.60d0fb5f6258c6c7.js": "039b2b491ca3da95cc16d4622ebe69f631a67a21",
+    "/foreign-reader/common.a817d67cba718461.js": "d843d450e3d05291b29880489359f4e7fb58cf22",
     "/foreign-reader/favicon.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
-    "/foreign-reader/index.html": "852d0769fac1442efbf58e3994e093f1a1d77b84",
+    "/foreign-reader/index.html": "a6b14ff810423f00d6e28daeebf7c06a540e6cbe",
     "/foreign-reader/main.95e8b6e47208d0ae.js": "9fe5e61f1bf4302d201729659e68feaee91454db",
     "/foreign-reader/manifest.webmanifest": "c253d6391d3ba503a9d2e54ee971da6a6eed5714",
     "/foreign-reader/polyfills.d7223f73d3c0df36.js": "3715987a9a0592fcc65cfbe17efa2ea913331b6c",
-    "/foreign-reader/runtime.587e73aed247cb18.js": "50e1239f7760d4f3100b512e8c5407b6527a7467",
-    "/foreign-reader/styles.4ec749e5c4c1c81a.css": "142d828f03f5a12e5ec2e162d66587a97b32cad6"
+    "/foreign-reader/runtime.1c3afc6c48a31083.js": "9771b06c9eca01dbe9d1fee1ea8a92f7731b6a6b",
+    "/foreign-reader/styles.9dbcef8efaa4303c.css": "cd242ac3926f9c6e6ad59c5d0efbde3930926dc6"
   },
   "navigationUrls": [
     {

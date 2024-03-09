@@ -1,6 +1,6 @@
 # Foreign Reader: Changelog
 
-- 2024.03.09 examples: hot keys and custom styles
+- 2024.03.09 examples: hot keys (for first example) and custom styles
 - 2024.02.29 background-image
 - 2024.02.25 GoToPrevMark: k - key. 
 - 2024.02.24 Mobile: pop-up dictionary

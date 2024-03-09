@@ -79,6 +79,8 @@ Actually it isn't a big problem.
 
 It shows only first 1000 favorite examples (sorted by ToDoTime);
 
+Hot keys are applied only for first example (see tooltip)
+
 ## Mobile
 
 If screen width < 1000px then it is in mobile mode.

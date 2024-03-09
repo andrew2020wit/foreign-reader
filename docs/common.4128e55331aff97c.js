@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkforeign_reader=self.webpackChunkforeign_reader||[]).push([[592],{8863:(s,n,t)=>{function c(o,a){const e=document.createElement("a"),r=new Blob([o],{type:"text/plain"});e.href=URL.createObjectURL(r),e.download=a,e.click(),e.remove()}t.d(n,{l:()=>c})}}]);

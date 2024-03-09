@@ -2,6 +2,7 @@
 
 [https://andrew2020wit.github.io/foreign-reader/](https://andrew2020wit.github.io/foreign-reader/)
 
+[https://youtu.be/1YP31gjr-Es](https://youtu.be/1YP31gjr-Es)
 
 ## Functionality
 
@@ -25,10 +26,6 @@ Some tools and dictionary was created to support json-format dictionaries.
 
 It has a functionality for memory-cards like Anki-card.
 You can easily create memory-cards (by one click) from dictionary-examples.
-
-## YouTube intro
-
-[https://youtu.be/1YP31gjr-Es](https://youtu.be/1YP31gjr-Es)
 
 ### Dictionary functionality
 

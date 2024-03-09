@@ -123,8 +123,13 @@ Like: "url(https://andrew2020wit.github.io/foreign-reader/assets/background/fanc
 
 This is a new version of former [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
 
-Removed useless functionality: fragments, speech-engine, translated text (bilingua mode),
+Removed useless functionality: fragments, speech-engine,
 creating bilingua, subtitle-imports.
+
+The translated text is within the original text (the same paragraph).
+The simpler way to create translation.
+
+New improvements.
 
 ### Changelog
 

@@ -27,6 +27,8 @@ Some tools and dictionary was created to support json-format dictionaries.
 It has a functionality for memory-cards like Anki-card.
 You can easily create memory-cards (by one click) from dictionary-examples.
 
+I recommend Chrome. Firefox displays fonts worse.
+
 ### Dictionary functionality
 
 #### go to Settings

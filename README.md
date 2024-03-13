@@ -78,6 +78,12 @@ It shows only first 1000 favorite examples (sorted by ToDoTime);
 
 Hot keys are applied only for first example (see tooltip)
 
+#### See also:
+
+create favorites-examples list from CALD dictionary:
+
+[create-favorites-list.js](https://github.com/andrew2020wit/cald-mdx-to-json)
+
 ## Mobile
 
 If screen width < 1000px then it is in mobile mode.

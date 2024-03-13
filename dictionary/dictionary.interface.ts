@@ -61,12 +61,13 @@ export interface IFavoriteExample {
   timestamp?: number; // id, must be unique
   toDoTimestamp?: number;
   updateTimestamp?: number;
-  term: string;
-  partOfSpeech: string;
-  definition: string;
+  term?: string;
+  partOfSpeech?: string;
+  definition?: string;
   original: string;
   translation?: string;
   transcription?: string;
+  level?: string;
   synonym?: string;
   antonym?: string;
   showDetails?: boolean;

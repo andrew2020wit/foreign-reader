@@ -78,6 +78,8 @@ It shows only first 1000 favorite examples (sorted by ToDoTime);
 
 Hot keys are applied only for first example (see tooltip)
 
+Hint: you can use different browsers (or profiles) to use different example-lists.
+
 #### See also:
 
 create favorites-examples list from CALD dictionary:

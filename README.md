@@ -141,15 +141,6 @@ The simpler way to create translation.
 
 New improvements.
 
-### Some books with simple text to read
-
-Here is my short list of books with simple text for foreigners:
-
-- George R. R. Martin - A Song of Ice and Fire - A Game of Thrones
-- Brandon Sanderson - The Stormlight Archive - The Way of Kings
-- ROWLING J.K. - HARRY POTTER and the Philosopher’s Stone
-- Tolkien - The Hobbit
-
 ### Changelog
 
 [Changelog](https://github.com/andrew2020wit/foreign-reader/blob/master/changelog.md)

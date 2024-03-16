@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1710578871601,
+  "timestamp": 1710580552231,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -112,7 +112,7 @@
     "/foreign-reader/assets/icons/icon-512x512.png": "66e7ea4f09dc06c11635d8c3f2980e044e79d579",
     "/foreign-reader/common.4128e55331aff97c.js": "2fc1b33844c7a41fdd41f2ba802db4434027f8c6",
     "/foreign-reader/favicon.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
-    "/foreign-reader/index.html": "60ebe27a0803b1ac8e56a1c6a1631dda9201152e",
+    "/foreign-reader/index.html": "2144db4436ae1feb90e1976d69424fdb9311aed7",
     "/foreign-reader/main.eeaff337aa5e04c1.js": "076e85c732861b6046f1a8f383c684c2e837b2a9",
     "/foreign-reader/manifest.webmanifest": "6d24c89b5f0c0f544911ad1a512842b7520d6a79",
     "/foreign-reader/polyfills.d7223f73d3c0df36.js": "3715987a9a0592fcc65cfbe17efa2ea913331b6c",

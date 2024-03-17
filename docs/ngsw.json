@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1710673576136,
+  "timestamp": 1710678109791,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/foreign-reader/190.32fefd2c77316407.js",
+        "/foreign-reader/190.e989f88d07729917.js",
         "/foreign-reader/223.ce380e40fdd7d4e7.js",
         "/foreign-reader/32.07067498e8474fdb.js",
         "/foreign-reader/503.7e830bbae56a3bb4.js",
@@ -26,10 +26,10 @@
         "/foreign-reader/common.4128e55331aff97c.js",
         "/foreign-reader/favicon.ico",
         "/foreign-reader/index.html",
-        "/foreign-reader/main.d37d05d977c52a31.js",
+        "/foreign-reader/main.a2aed161570710f2.js",
         "/foreign-reader/manifest.webmanifest",
         "/foreign-reader/polyfills.d7223f73d3c0df36.js",
-        "/foreign-reader/runtime.2da9de1845924555.js",
+        "/foreign-reader/runtime.b46503eca81d8f80.js",
         "/foreign-reader/styles.9dbcef8efaa4303c.css"
       ],
       "patterns": []
@@ -73,7 +73,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/foreign-reader/190.32fefd2c77316407.js": "6c3635fcf91f216071757dba7b259033bc7d6db5",
+    "/foreign-reader/190.e989f88d07729917.js": "10f73a7f72f12660cd35dcb0eeb337abbed26d22",
     "/foreign-reader/223.ce380e40fdd7d4e7.js": "c181f38d24c5dec469febb1cb11b4797a0a6abf4",
     "/foreign-reader/32.07067498e8474fdb.js": "31e7968043ac87ac4bdd350296576c236dbf2e71",
     "/foreign-reader/503.7e830bbae56a3bb4.js": "ecb894cebd2dd5de2dde9eac4ed1ac7e00fbaff8",
@@ -112,11 +112,11 @@
     "/foreign-reader/assets/icons/icon-512x512.png": "66e7ea4f09dc06c11635d8c3f2980e044e79d579",
     "/foreign-reader/common.4128e55331aff97c.js": "2fc1b33844c7a41fdd41f2ba802db4434027f8c6",
     "/foreign-reader/favicon.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
-    "/foreign-reader/index.html": "8a5a2c8d26ebbe5cc961e1f873af116f0856fb44",
-    "/foreign-reader/main.d37d05d977c52a31.js": "d029b30fa3ced32a38821d5200949a79d15a3ca6",
+    "/foreign-reader/index.html": "57790ce3314d354286c30a90093575d3c18fa367",
+    "/foreign-reader/main.a2aed161570710f2.js": "cee557ec4bb462a02fe87e4125dbe7adcf6a337a",
     "/foreign-reader/manifest.webmanifest": "c57d7631a7ad9a8dc3f911297ad894b707dad211",
     "/foreign-reader/polyfills.d7223f73d3c0df36.js": "3715987a9a0592fcc65cfbe17efa2ea913331b6c",
-    "/foreign-reader/runtime.2da9de1845924555.js": "4702030b246fafb687e20ccfdb1b61d2fb21b137",
+    "/foreign-reader/runtime.b46503eca81d8f80.js": "ca7a0b93640504f6469a78225ad23ded517200f8",
     "/foreign-reader/styles.9dbcef8efaa4303c.css": "cd242ac3926f9c6e6ad59c5d0efbde3930926dc6"
   },
   "navigationUrls": [

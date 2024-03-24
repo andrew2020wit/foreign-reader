@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711291596630,
+  "timestamp": 1711294128021,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/foreign-reader/190.6066680a32afd6a4.js",
+        "/foreign-reader/190.e5021dd86db4b5f4.js",
         "/foreign-reader/223.ce380e40fdd7d4e7.js",
         "/foreign-reader/32.07067498e8474fdb.js",
         "/foreign-reader/503.7e830bbae56a3bb4.js",
@@ -21,7 +21,7 @@
         "/foreign-reader/629.5a0670e499fffc1b.js",
         "/foreign-reader/636.bda8b9ccf947c31a.js",
         "/foreign-reader/694.90253b5058cd8e99.js",
-        "/foreign-reader/762.23a8a1885dbccdc4.js",
+        "/foreign-reader/762.5eafbbd463dccf05.js",
         "/foreign-reader/854.e0faac563a119416.js",
         "/foreign-reader/common.4128e55331aff97c.js",
         "/foreign-reader/favicon.ico",
@@ -29,7 +29,7 @@
         "/foreign-reader/main.a2aed161570710f2.js",
         "/foreign-reader/manifest.webmanifest",
         "/foreign-reader/polyfills.d7223f73d3c0df36.js",
-        "/foreign-reader/runtime.09b339fe79d40d79.js",
+        "/foreign-reader/runtime.87d24c145a3d4d77.js",
         "/foreign-reader/styles.9dbcef8efaa4303c.css"
       ],
       "patterns": []
@@ -73,7 +73,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/foreign-reader/190.6066680a32afd6a4.js": "61b790c50bbccdfc3b91fa8f19ae15aad578d90b",
+    "/foreign-reader/190.e5021dd86db4b5f4.js": "351e1f9a60650649636a3ab4611aa6c1d14de6e6",
     "/foreign-reader/223.ce380e40fdd7d4e7.js": "c181f38d24c5dec469febb1cb11b4797a0a6abf4",
     "/foreign-reader/32.07067498e8474fdb.js": "31e7968043ac87ac4bdd350296576c236dbf2e71",
     "/foreign-reader/503.7e830bbae56a3bb4.js": "ecb894cebd2dd5de2dde9eac4ed1ac7e00fbaff8",
@@ -83,7 +83,7 @@
     "/foreign-reader/629.5a0670e499fffc1b.js": "099fc8c3ab8f943d1d5316a32ff3eee71bc510d8",
     "/foreign-reader/636.bda8b9ccf947c31a.js": "349fe9424a40d9d85b9dba0375013b15983fa780",
     "/foreign-reader/694.90253b5058cd8e99.js": "6d6234041f37b689d09e5acde33f6483b7282276",
-    "/foreign-reader/762.23a8a1885dbccdc4.js": "ea5dceafc4572c9d1c782dc5dd409140d65dc8c5",
+    "/foreign-reader/762.5eafbbd463dccf05.js": "bdb0d3437718db9d030be4ffdadc44ca718d5856",
     "/foreign-reader/854.e0faac563a119416.js": "b8c255a48214808ef587d092024900dd5762f441",
     "/foreign-reader/assets/background/bedge-grunge.png": "dda1bee7baeafd6f69d6492a4d28ca9a71335c70",
     "/foreign-reader/assets/background/billie-holiday.png": "0f85020bd3111833822da15efde27a4c7e8e7a79",
@@ -112,11 +112,11 @@
     "/foreign-reader/assets/icons/icon-512x512.png": "66e7ea4f09dc06c11635d8c3f2980e044e79d579",
     "/foreign-reader/common.4128e55331aff97c.js": "2fc1b33844c7a41fdd41f2ba802db4434027f8c6",
     "/foreign-reader/favicon.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
-    "/foreign-reader/index.html": "18d8c9fc5b12f0c9401a2f9007c111c1683ee389",
+    "/foreign-reader/index.html": "a2daebf8c3e65459a831b12205aab07582ed434d",
     "/foreign-reader/main.a2aed161570710f2.js": "cee557ec4bb462a02fe87e4125dbe7adcf6a337a",
     "/foreign-reader/manifest.webmanifest": "c57d7631a7ad9a8dc3f911297ad894b707dad211",
     "/foreign-reader/polyfills.d7223f73d3c0df36.js": "3715987a9a0592fcc65cfbe17efa2ea913331b6c",
-    "/foreign-reader/runtime.09b339fe79d40d79.js": "86befe9f87ecbd9dfb2469ad868828a7e671b1d4",
+    "/foreign-reader/runtime.87d24c145a3d4d77.js": "7e8a40997cd4cd72829b9d22b475d1ab366cf19c",
     "/foreign-reader/styles.9dbcef8efaa4303c.css": "cd242ac3926f9c6e6ad59c5d0efbde3930926dc6"
   },
   "navigationUrls": [

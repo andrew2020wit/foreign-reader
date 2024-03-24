@@ -1,5 +1,6 @@
 # Foreign Reader: Changelog
 
+- 2024.04.24 TranslateOne - 'h' hotkey
 - 2024.03.17 export-import translation improvement
 - 2024.03.16 pwa fix
 - 2024.03.13 import examples without timestamp

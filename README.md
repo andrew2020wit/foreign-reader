@@ -69,7 +69,6 @@ For the translation you can:
 - import the translation (the same format).
 
 Then you can click on lines to see translation. 
-(Translation-button at the top must be on)
 
 ## Favorite Examples are similar to Anki functionality.
 
@@ -108,6 +107,7 @@ with [selection-search chrome-extension](https://chromewebstore.google.com/detai
 
 GoHome: 'Home', ShowMenu: '0', 'Escape', GoToNextItem: 'n', MarkIt: '1',
 EditChapterTitle: '9', GoToNextMark: 'm', GoToPrevMark: 'k'.
+TranslateOne - 'h'.
 
 ### About some custom styles
 

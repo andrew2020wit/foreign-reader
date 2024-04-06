@@ -1,4 +1,4 @@
-# Foreign Reader - the web-application to read foreign texts and learn languages.
+# Foreign Reader - the web-application to read foreign books and learn languages.
 
 [https://andrew2020wit.github.io/foreign-reader/](https://andrew2020wit.github.io/foreign-reader/)
 
@@ -13,7 +13,7 @@ and stored locally in you web-browser storage (IDB-storage).
 This application optimized to work with very big text files.
 
 The text is shown to be easily to read, with large text-size and good font.
-You can customize appearance (text size, colors and other). 
+You can customize appearance (text size, colors, background and other). 
 
 It supports multiple bookmarks and automatically remember last position.
 
@@ -76,8 +76,6 @@ It shows only first 1000 favorite examples (sorted by ToDoTime);
 
 Hot keys are applied only for first example (see tooltip)
 
-Hint: you can use different browsers (or profiles) to use different example-lists.
-
 #### See also:
 
 create favorites-examples list from CALD dictionary:
@@ -93,13 +91,11 @@ Use customization to adjust font-size.
 
 ## Urls-tip
 
-You can use:
+You can use web-url to search %s:
 
 https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?term=%s
 
-https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?translate=%s
-
-with [selection-search chrome-extension](https://chromewebstore.google.com/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)
+with (for example) [selection-search chrome-extension](https://chromewebstore.google.com/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)
 
 (see its settings)
 
@@ -130,11 +126,14 @@ Like: "url(https://andrew2020wit.github.io/foreign-reader/assets/background/fanc
 
 This is a new version of former [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
 
-Removed useless functionality: fragments, speech-engine,
-creating bilingua, subtitle-imports.
+New approach to show translation (from two columns to one text).
+Changed book json format.
 
 The translated text is within the original text (the same paragraph).
 The simpler way to create translation.
+
+Removed useless functionality: fragments, speech-engine,
+creating bilingua, subtitle-imports.
 
 New improvements.
 

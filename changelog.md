@@ -1,5 +1,6 @@
 # Foreign Reader: Changelog
 
+- 2024.04.07 Favorite Phrases
 - 2024.03.27 Show all translation
 - 2024.03.24 TranslateOne - 'h' hotkey
 - 2024.03.17 export-import translation improvement

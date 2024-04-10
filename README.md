@@ -95,7 +95,7 @@ You can use web-url to search %s:
 
 https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?term=%s
 
-https://andrew2020wit.github.io/foreign-reader/favorite-phrases?add=%s
+https://andrew2020wit.github.io/foreign-reader/create-example?add=%s
 
 with (for example) [selection-search chrome-extension](https://chromewebstore.google.com/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)
 

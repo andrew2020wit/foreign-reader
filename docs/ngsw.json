@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1712902184171,
+  "timestamp": 1713155742887,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -11,8 +11,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "/foreign-reader/10.2026908020b42174.js",
-        "/foreign-reader/190.d8dcaf34fab7701e.js",
+        "/foreign-reader/10.60d5f76a7769edcf.js",
+        "/foreign-reader/190.0d9209b19043d7f0.js",
         "/foreign-reader/301.8a5fbb2c003a3d3a.js",
         "/foreign-reader/32.b1b518330078f21c.js",
         "/foreign-reader/596.11056c0778379b57.js",
@@ -30,7 +30,7 @@
         "/foreign-reader/main.ba7a1b0b28acf0a3.js",
         "/foreign-reader/manifest.webmanifest",
         "/foreign-reader/polyfills.d7223f73d3c0df36.js",
-        "/foreign-reader/runtime.9fa64d396d6f890a.js",
+        "/foreign-reader/runtime.7246d0530d50c7aa.js",
         "/foreign-reader/styles.07ca1a2a933ef2fc.css"
       ],
       "patterns": []
@@ -65,8 +65,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/foreign-reader/10.2026908020b42174.js": "05bc293743e11ef3ce3510bc6d04a0bd6319d697",
-    "/foreign-reader/190.d8dcaf34fab7701e.js": "d34c0fdc1a5d410f3a8276cde0ac13a8f36ac4a8",
+    "/foreign-reader/10.60d5f76a7769edcf.js": "f031ad0cfd3e359ba7235af63024c7328cf46c01",
+    "/foreign-reader/190.0d9209b19043d7f0.js": "b9afab3e102bd02ebc9d4db9293e4baa70184ebd",
     "/foreign-reader/301.8a5fbb2c003a3d3a.js": "9b649863e0dd2c88c3d83e494f4e6227c6d7e1d6",
     "/foreign-reader/32.b1b518330078f21c.js": "6a7e04428f5459de8112c8e3abacadc4cf18872c",
     "/foreign-reader/596.11056c0778379b57.js": "ce742e6bd6a02217c3b4f4dc13a6643534cf778b",
@@ -96,11 +96,11 @@
     "/foreign-reader/assets/icons/icon-512x512.png": "66e7ea4f09dc06c11635d8c3f2980e044e79d579",
     "/foreign-reader/common.1b623889309fa38f.js": "abe6e949085ffa6adfe68470d36795cf49d35831",
     "/foreign-reader/favicon.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
-    "/foreign-reader/index.html": "a7e216207b5e7c478421b7a08ab396aebe6b6001",
+    "/foreign-reader/index.html": "1402ee69c7360f08fbec68b50e8c8060e4b6f6e2",
     "/foreign-reader/main.ba7a1b0b28acf0a3.js": "c3c650edaf8b487a821e179e123ab28cc9d5d9cf",
     "/foreign-reader/manifest.webmanifest": "c57d7631a7ad9a8dc3f911297ad894b707dad211",
     "/foreign-reader/polyfills.d7223f73d3c0df36.js": "3715987a9a0592fcc65cfbe17efa2ea913331b6c",
-    "/foreign-reader/runtime.9fa64d396d6f890a.js": "a45729263e06d2a18f0ce37815a178c08d888533",
+    "/foreign-reader/runtime.7246d0530d50c7aa.js": "95e86e4809d689ecae29b27f353c72e4aee81799",
     "/foreign-reader/styles.07ca1a2a933ef2fc.css": "2f5f9e2a8851560ffdf9ad7bc5f6f89a51892bc6"
   },
   "navigationUrls": [

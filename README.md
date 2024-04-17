@@ -4,6 +4,26 @@
 
 [https://youtu.be/1YP31gjr-Es](https://youtu.be/1YP31gjr-Es)
 
+## Intro
+
+Foreign Reader is a web-application to read foreign books (texts) and to learn foreign languages.
+
+It's a book reader, which has built-in dictionary and translation functionality.
+It also has special functionality to learn vocabulary.
+
+As a book reader it's based on web-technologies and hence provide comfort user experience.
+
+It uses special json-format for dictionaries and hence provide advance and convenient functionality
+to display word's explanation and to create "memory-cards".
+
+It stores all data locally and uses PWA-technology, so you can use it without Internet.
+
+It's optimized for very big books.
+
+You don't have to pay for it, and it doesn't show advertise.
+
+There are related projects to convert some dictionary into json-format.
+
 ## Functionality
 
 You can open a plain text file (UTF-8 encoding).
@@ -72,9 +92,10 @@ Then you can click on lines to see translation.
 
 ## Favorite Examples are similar to Anki functionality.
 
-It shows only first 1000 favorite examples (sorted by ToDoTime);
+Hot keys are applied only for first example (see tooltip).
+'space'-key - show info.
 
-Hot keys are applied only for first example (see tooltip)
+You can export-import list - see settings.
 
 #### See also:
 
@@ -126,12 +147,14 @@ Like: "url(https://andrew2020wit.github.io/foreign-reader/assets/background/fanc
 
 ## Deference from  "Bilingua Dealer"
 
-This is a new version of former [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
+This is a new version of [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
 
 New approach to show translation (from two columns to one text).
-Changed book json format.
 
 The translated text is within the original text (the same paragraph).
+
+Changed book json format.
+
 The simpler way to create translation.
 
 Removed useless functionality: fragments, speech-engine,

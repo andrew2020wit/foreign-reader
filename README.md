@@ -107,8 +107,8 @@ create favorites-examples list from CALD dictionary:
 
 To use SpeechEngine go to menu (book's page), audio-tab, and select voice.
 
-At the moment google voices has a bag - it doesn't support a long text,
-so use not google voices.
+At the moment Google voices have a bag - it doesn't support a long text,
+so don't use Google voices.
 
 On Windows I highly recommend to try Edge-browser and Microsoft **online** voices. 
 For example "Microsoft Andrew Online (Natural)"

@@ -103,12 +103,24 @@ create favorites-examples list from CALD dictionary:
 
 [create-favorites-list.js](https://github.com/andrew2020wit/cald-mdx-to-json)
 
+## SpeechEngine
+
+To use SpeechEngine go to menu (book's page), audio-tab, and select voice.
+
+At the moment google voices has a bag - it doesn't support a long text,
+so use not google voices.
+
+On Windows I highly recommend to try Edge-browser and Microsoft **online** voices. 
+For example "Microsoft Andrew Online (Natural)"
+
 ## Mobile
 
 If screen width < 1000px then it is in mobile mode.
 Use double click (touch) to show pop-up dictionary.
 
 Use customization to adjust font-size.
+
+At the moment I don't support the mobile version because I don't use it.
 
 ## Urls-tip
 
@@ -157,8 +169,7 @@ Changed book json format.
 
 The simpler way to create translation.
 
-Removed useless functionality: fragments, speech-engine,
-creating bilingua, subtitle-imports.
+Removed useless functionality: fragments, creating bilingua, subtitle-imports.
 
 New improvements.
 

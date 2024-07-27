@@ -1,5 +1,6 @@
 # Foreign Reader: Changelog
 
+- 2024.07.27 SpeechEngine
 - 2024.04.10 Favorite Phrases - united with examples, other improvement.
 - 2024.04.07 Favorite Phrases
 - 2024.03.27 Show all translation

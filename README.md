@@ -33,7 +33,7 @@ and stored locally in you web-browser storage (IDB-storage).
 This application optimized to work with very big text files.
 
 The text is shown to be easily to read, with large text-size and good font.
-You can customize appearance (text size, colors, background and other). 
+You can customize appearance (text size, colors, background and other).
 
 It supports multiple bookmarks and automatically remember last position.
 
@@ -53,19 +53,23 @@ I recommend Chrome. Firefox displays fonts worse.
 
 #### go to Settings
 
-- Load morphology.json and morphology-replace-rules.json. See: [dictionary](https://github.com/andrew2020wit/foreign-reader/tree/master/dictionary)
-- Load main-dictionary. See "wordset-with-tr.json": [dictionary](https://github.com/andrew2020wit/foreign-reader/tree/master/dictionary)
+- Load morphology.json and morphology-replace-rules.json.
+  See: [dictionary](https://github.com/andrew2020wit/foreign-reader/tree/master/dictionary)
+- Load main-dictionary. See "
+  wordset-with-tr.json": [dictionary](https://github.com/andrew2020wit/foreign-reader/tree/master/dictionary)
 - Turn-on dictionary-functionality.
 
 #### There are some tools to convert dsl and mdx dictionaries to json, but they are specific for the certain dictionary.
 
 See also:
 
-Parser for Lingvo en-ru dsl-dictionary: [https://github.com/andrew2020wit/dsl-dictionary-parser](https://github.com/andrew2020wit/dsl-dictionary-parser)
+Parser for Lingvo en-ru
+dsl-dictionary: [https://github.com/andrew2020wit/dsl-dictionary-parser](https://github.com/andrew2020wit/dsl-dictionary-parser)
 
 Some utils (uniter and other) are also there.
 
-Parser for Cambridge Advanced Learner's Dictionary 4th, mdx format: [https://github.com/andrew2020wit/cald-mdx-to-json](https://github.com/andrew2020wit/cald-mdx-to-json)
+Parser for Cambridge Advanced Learner's Dictionary 4th, mdx
+format: [https://github.com/andrew2020wit/cald-mdx-to-json](https://github.com/andrew2020wit/cald-mdx-to-json)
 
 #### Morphology Replace Rules
 
@@ -88,7 +92,7 @@ For the translation you can:
 - you have to translate it with google-translate (for documents).
 - import the translation (the same format).
 
-Then you can click on lines to see translation. 
+Then you can click on lines to see translation.
 
 ## Favorite Examples are similar to Anki functionality.
 
@@ -110,7 +114,7 @@ To use SpeechEngine go to menu (book's page), audio-tab, and select voice.
 At the moment Google voices have a bug - it doesn't support a long text,
 so don't use Google voices.
 
-On Windows I highly recommend to try Edge-browser and Microsoft **online** voices. 
+On Windows I highly recommend to try Edge-browser and Microsoft **online** voices.
 For example "Microsoft Andrew Online (Natural)"
 
 ## Mobile
@@ -130,7 +134,8 @@ https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?term=%s
 
 https://andrew2020wit.github.io/foreign-reader/create-example?add=%s
 
-with (for example) [selection-search chrome-extension](https://chromewebstore.google.com/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)
+with (for
+example) [selection-search chrome-extension](https://chromewebstore.google.com/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)
 
 (see its settings)
 
@@ -172,6 +177,45 @@ The simpler way to create translation.
 Removed useless functionality: fragments, creating bilingua, subtitle-imports.
 
 New improvements.
+
+## Favorite words and Anki connect
+
+See: [https://foosoft.net/projects/anki-connect/](https://foosoft.net/projects/anki-connect/)
+
+You can create a list of favorite words. This application provide functionality to find and mark cards in Anki.
+
+It was created to deal with very huge anki-deck, which is made from a dictionary.
+
+Anki deck must contain notes with field (ignore "value" - it's an anki-entity):
+
+```typescript
+export interface ICardFields {
+    def: {
+        value: string;
+    };
+    exampleId?: {
+        value: string;
+    };
+    exampleText: {
+        value: string;
+    };
+    freq?: {
+        value: string;
+    };
+    freq2?: {
+        value: string;
+    };
+    term: {
+        value: string;
+    };
+    pos: {
+        value: string;
+    };
+    sensenum?: {
+        value: string;
+    };
+}
+```
 
 ### Changelog
 

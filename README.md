@@ -24,6 +24,8 @@ You don't have to pay for it, and it doesn't show advertise.
 
 There are related projects to convert some dictionary into json-format.
 
+![book](imgs/book.png)
+
 ## Functionality
 
 You can open a plain text file (UTF-8 encoding).
@@ -180,6 +182,8 @@ New improvements.
 
 ## Favorite words and Anki connect
 
+![favorite-words](imgs/favorite-words.png)
+
 See: [https://foosoft.net/projects/anki-connect/](https://foosoft.net/projects/anki-connect/)
 
 You can create a list of favorite words. This application provide functionality to find and mark cards in Anki.
@@ -188,7 +192,7 @@ It was created to deal with a very huge anki-deck, which is made from a dictiona
 
 You must install anki-connect and configure it: add "https://andrew2020wit.github.io" to "webCorsOriginList".
 
-![configure-anki-connect.png](imgs/configure-anki-connect.png)
+![configure-anki-connect](imgs/configure-anki-connect.png)
 
 An anki deck must contain notes with field (ignore "value" - it's an anki-entity):
 

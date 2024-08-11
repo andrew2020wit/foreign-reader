@@ -184,9 +184,9 @@ See: [https://foosoft.net/projects/anki-connect/](https://foosoft.net/projects/a
 
 You can create a list of favorite words. This application provide functionality to find and mark cards in Anki.
 
-It was created to deal with very huge anki-deck, which is made from a dictionary.
+It was created to deal with a very huge anki-deck, which is made from a dictionary.
 
-Anki deck must contain notes with field (ignore "value" - it's an anki-entity):
+An anki deck must contain notes with field (ignore "value" - it's an anki-entity):
 
 ```typescript
 export interface ICardFields {

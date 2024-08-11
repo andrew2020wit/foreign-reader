@@ -186,6 +186,10 @@ You can create a list of favorite words. This application provide functionality 
 
 It was created to deal with a very huge anki-deck, which is made from a dictionary.
 
+You must install anki-connect and configure it: add "https://andrew2020wit.github.io" to "webCorsOriginList".
+
+![configure-anki-connect.png](imgs/configure-anki-connect.png)
+
 An anki deck must contain notes with field (ignore "value" - it's an anki-entity):
 
 ```typescript

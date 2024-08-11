@@ -164,7 +164,7 @@ or other.
 
 Like: "url(https://andrew2020wit.github.io/foreign-reader/assets/background/fancy-deboss.png)" or "none"
 
-## Deference from  "Bilingua Dealer"
+## The difference from  "Bilingua Dealer"
 
 This is a new version of [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
 

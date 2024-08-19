@@ -55,6 +55,7 @@ export interface IDefinition {
 export interface IExample {
   original: string;
   translation?: string;
+  externalId?: string;
 }
 
 export interface IFavoriteExample {

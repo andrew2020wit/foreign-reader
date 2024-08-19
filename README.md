@@ -225,7 +225,14 @@ export interface ICardFields {
 }
 ```
 
-### Changelog
+### ExternalId
+
+if "externalId" is "on" (the settings), and the example (from a dictionary) has field "externalId",
+then, instead to add the example to favorite examples,
+(from dictionary widget) it connects to Anki,
+find note with this id ("id"-field of an anki note), and marks it with the tag ("selected" by default).
+
+## Changelog
 
 [Changelog](https://github.com/andrew2020wit/foreign-reader/blob/master/changelog.md)
 

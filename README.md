@@ -232,6 +232,10 @@ then, instead to add the example to favorite examples,
 (from dictionary widget) it connects to Anki,
 find note with this id ("id"-field of an anki note), and marks it with the tag ("selected" by default).
 
+## Convert epub-files to json files for Foreign Reader
+
+[https://github.com/andrew2020wit/epub-to-json-for-fr](https://github.com/andrew2020wit/epub-to-json-for-fr)
+
 ## Changelog
 
 [Changelog](https://github.com/andrew2020wit/foreign-reader/blob/master/changelog.md)

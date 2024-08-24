@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1724399412196,
+  "timestamp": 1724496393262,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -11,8 +11,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "/foreign-reader/111.90b41275f2bf288b.js",
-        "/foreign-reader/190.f8d392b2c5043d99.js",
+        "/foreign-reader/111.dd680d42ed2f0ad0.js",
+        "/foreign-reader/190.5f5daad13199519a.js",
         "/foreign-reader/217.b19b46b756eadcdf.js",
         "/foreign-reader/301.c726318d531e0ebf.js",
         "/foreign-reader/32.b1b518330078f21c.js",
@@ -31,7 +31,7 @@
         "/foreign-reader/main.6596dd2494bf1b92.js",
         "/foreign-reader/manifest.webmanifest",
         "/foreign-reader/polyfills.d7223f73d3c0df36.js",
-        "/foreign-reader/runtime.a2badc84fa832587.js",
+        "/foreign-reader/runtime.fb8782503c98018f.js",
         "/foreign-reader/styles.e370ddf67b42c60a.css"
       ],
       "patterns": []
@@ -66,8 +66,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/foreign-reader/111.90b41275f2bf288b.js": "6134d58c2f375279177300d072df51b3ad3f9ffe",
-    "/foreign-reader/190.f8d392b2c5043d99.js": "a9e0f1af56b1ad2df1c7a08ab1ce1e0eb46a9555",
+    "/foreign-reader/111.dd680d42ed2f0ad0.js": "69a9f5cb143aa9938b33ecf29ad5e84c98156efb",
+    "/foreign-reader/190.5f5daad13199519a.js": "927a894f0706c4b9e0bb809c2dfab4d380ad6bb8",
     "/foreign-reader/217.b19b46b756eadcdf.js": "ecf4a4c3d7324651f271b5eb876a82216bcadb79",
     "/foreign-reader/301.c726318d531e0ebf.js": "b2fb41f77388c06571ee0d1ca396d8b2e21a2700",
     "/foreign-reader/32.b1b518330078f21c.js": "6a7e04428f5459de8112c8e3abacadc4cf18872c",
@@ -98,11 +98,11 @@
     "/foreign-reader/assets/icons/icon-512x512.png": "66e7ea4f09dc06c11635d8c3f2980e044e79d579",
     "/foreign-reader/common.2bbe05eb9b6f2802.js": "764ca3584c729aa71ebdf61af975d55296e2a4c5",
     "/foreign-reader/favicon.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
-    "/foreign-reader/index.html": "4b7d089edc30aae0a37741157ac2fd6fe1d61916",
+    "/foreign-reader/index.html": "118716884a843c87998f43b51b3fbe86602b310c",
     "/foreign-reader/main.6596dd2494bf1b92.js": "211bc17fe1ffcbd363a8e766e6512a042050ff23",
     "/foreign-reader/manifest.webmanifest": "c57d7631a7ad9a8dc3f911297ad894b707dad211",
     "/foreign-reader/polyfills.d7223f73d3c0df36.js": "3715987a9a0592fcc65cfbe17efa2ea913331b6c",
-    "/foreign-reader/runtime.a2badc84fa832587.js": "9635a976d454f9af1a1fe7775b4ad5251ef8c28a",
+    "/foreign-reader/runtime.fb8782503c98018f.js": "438d58162fdccff7038dcd6a65ecf8905f14b630",
     "/foreign-reader/styles.e370ddf67b42c60a.css": "281f2ea610a393b35e6db127b060a140b2eb440a"
   },
   "navigationUrls": [

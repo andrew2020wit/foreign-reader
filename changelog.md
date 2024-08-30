@@ -1,5 +1,7 @@
 # Foreign Reader: Changelog
 
+- 2024.08.30 Convert srt-files (subtitles) to json-book (Foreign Reader)
+- 2024.08.20 Convert epub-files to json files for Foreign Reader
 - 2024.08.18 ExternalId
 - 2024.08.11 Anki connect - add tags to anki items.
 - 2024.07.27 SpeechEngine

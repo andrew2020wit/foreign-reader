@@ -11,11 +11,6 @@ Foreign Reader is a web-application to read foreign books (texts) and to learn f
 It's a book reader, which has built-in dictionary and translation functionality.
 It also has special functionality to learn vocabulary.
 
-As a book reader it's based on web-technologies and hence provide comfort user experience.
-
-It uses special json-format for dictionaries and hence provide advance and convenient functionality
-to display word's explanation and to create "memory-cards".
-
 It stores all data locally and uses PWA-technology, so you can use it without Internet.
 
 It's optimized for very big books.
@@ -32,12 +27,9 @@ You can open a plain text file (UTF-8 encoding).
 This text will be converted into inner format
 and stored locally in you web-browser storage (IDB-storage).
 
-This application optimized to work with very big text files.
-
-The text is shown to be easily to read, with large text-size and good font.
 You can customize appearance (text size, colors, background and other).
 
-It supports multiple bookmarks and automatically remember last position.
+It supports multiple bookmarks and automatically remembers last position.
 
 It provides integration with translation.
 
@@ -48,8 +40,6 @@ Some tools and dictionary was created to support json-format dictionaries.
 
 It has a functionality for memory-cards like Anki-card.
 You can easily create memory-cards (by one click) from dictionary-examples.
-
-I recommend Chrome. Firefox displays fonts worse.
 
 ### Dictionary functionality
 
@@ -93,6 +83,8 @@ For the translation you can:
 - export for translation - it will create a special text file
 - you have to translate it with google-translate (for documents).
 - import the translation (the same format).
+
+Look at youtube-video for details.
 
 Then you can click on lines to see translation.
 

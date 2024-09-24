@@ -1,5 +1,6 @@
 # Foreign Reader: Changelog
 
+- 2024.09.24 Open a srt-file (subtitles) as a plain text (to-do: remove html tags)
 - 2024.08.30 Convert srt-files (subtitles) to json-book (Foreign Reader)
 - 2024.08.20 Convert epub-files to json files for Foreign Reader
 - 2024.08.18 ExternalId

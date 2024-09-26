@@ -224,13 +224,29 @@ then, instead to add the example to favorite examples,
 (from dictionary widget) it connects to Anki,
 find note with this id ("id"-field of an anki note), and marks it with the tag ("selected" by default).
 
-## Convert epub-files to json files for Foreign Reader
+## Related projects
+
+### Convert epub-files to json files for Foreign Reader with bing-translate (auto translate)
 
 [https://github.com/andrew2020wit/epub-to-json-for-fr](https://github.com/andrew2020wit/epub-to-json-for-fr)
 
-## Convert srt-files (subtitles) to json-book (Foreign Reader)
+### Convert srt-files (subtitles) to json-book (Foreign Reader)
 
 [https://github.com/andrew2020wit/srt-to-json-book](https://github.com/andrew2020wit/srt-to-json-book)
+
+### Parser for Lingvo en-ru (dsl-dictionary)
+
+dsl-dictionary: [https://github.com/andrew2020wit/dsl-dictionary-parser](https://github.com/andrew2020wit/dsl-dictionary-parser)
+
+Some utils (uniter and other) are also there.
+
+### Parser for Cambridge Advanced Learner's Dictionary 4th, (mdx format)
+
+[https://github.com/andrew2020wit/cald-mdx-to-json](https://github.com/andrew2020wit/cald-mdx-to-json)
+
+### JSON-dictionary utils
+
+[https://github.com/andrew2020wit/json-dictionary-utils](https://github.com/andrew2020wit/json-dictionary-utils)
 
 ## Changelog
 

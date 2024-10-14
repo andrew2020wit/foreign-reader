@@ -11,10 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout
 
       - name: Copy index.html to 404.html
-        run: cp index.html 404.html
+        run: cp docs/index.html docs/404.html
 
       - name: Commit and push 404.html
         run: |

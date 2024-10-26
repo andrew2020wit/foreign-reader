@@ -263,3 +263,10 @@ Some utils (uniter and other) are also there.
 - The author of this application doesn't provide any guarantees.
 
 Copyright (c) 2023-2024 Andrii Faurash
+
+## Simple books for beginners (my advice)
+
+- George R. R. Martin - A Game Of Thrones
+- Brandon Sanderson - Mistborn, The Stormlight Archive
+- Tolkien, The Hobbit
+- Rowling, Harry Potter

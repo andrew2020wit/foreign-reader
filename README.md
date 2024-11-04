@@ -222,7 +222,14 @@ export interface ICardFields {
 if "externalId" is "on" (the settings), and the example (from a dictionary) has field "externalId",
 then, instead to add the example to favorite examples,
 (from dictionary widget) it connects to Anki,
-find note with this id ("id"-field of an anki note), and marks it with the tag ("selected" by default).
+find the card with this id ("id"-field of an anki note), and:
+
+1. forget this card
+2. answer this card with "ease: 1" (learn again)
+
+You can immediately find it in "learning card state". You will see this card after some time.
+
+![configure-anki-connect](imgs/learn-card.png)
 
 ## Related projects
 
@@ -263,10 +270,3 @@ Some utils (uniter and other) are also there.
 - The author of this application doesn't provide any guarantees.
 
 Copyright (c) 2023-2024 Andrii Faurash
-
-## Simple books for beginners (my advice)
-
-- George R. R. Martin - A Game Of Thrones
-- Brandon Sanderson - Mistborn, The Stormlight Archive
-- Tolkien, The Hobbit
-- Rowling, Harry Potter

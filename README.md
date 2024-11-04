@@ -231,6 +231,12 @@ You can immediately find it in "learning card state". You will see this card aft
 
 ![configure-anki-connect](imgs/learn-card.png)
 
+See also: "Dictionary to Anki" - You can convert the json-dictionary to an anki text file (to import in Anki).
+It also creates the copy of the json-dictionary with "externalId", which you can use
+with Foreign Reader.
+
+[https://github.com/andrew2020wit/json-dictionary-utils](https://github.com/andrew2020wit/json-dictionary-utils)
+
 ## Related projects
 
 ### Convert epub-files to json files for Foreign Reader with bing-translate (auto translate)

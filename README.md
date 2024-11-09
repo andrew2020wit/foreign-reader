@@ -21,6 +21,21 @@ There are related projects to convert some dictionary into json-format.
 
 ![book](imgs/book.png)
 
+## Books
+
+You have to create your own books from txt-file, srt-file, or epub-file.
+
+But, to try this application, you can also take books from here:
+
+[./books](./books)
+
+1. download the json-book
+2. un-zip if it in zip-file
+3. import as json-file
+
+Some books may contain unreadable text at the beginning.
+This is a result of import from epub-files.
+
 ## Functionality
 
 You can open a plain text file (UTF-8 encoding).

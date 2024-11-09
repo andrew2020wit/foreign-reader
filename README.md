@@ -295,12 +295,6 @@ additional scripts:
 
 [Changelog](https://github.com/andrew2020wit/foreign-reader/blob/master/changelog.md)
 
-## Disclaimer
-
-This product has very limited support, it's not intended for mass use.
-I made it for my use, I use it, and I support it as much as I need.
-This product has no commercial plans.
-
 ## Licence
 
 - The author of this application is Andrii Faurash.

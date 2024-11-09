@@ -77,7 +77,7 @@ And see /dictionary/utils/compute-morphology-rule(.spec).ts
 
 ## Translation
 
-For the translation you can:
+You can translate your book:
 
 - go to menu (in book) - translation tab
 - export for translation - it will create a special text file
@@ -247,23 +247,44 @@ with Foreign Reader.
 
 [https://github.com/andrew2020wit/srt-to-json-book](https://github.com/andrew2020wit/srt-to-json-book)
 
-### Parser for Lingvo en-ru (dsl-dictionary)
+### Parser for Lingvo en-ru (dsl-dictionary) and other scripts
+
+1. Convert a dsl dictionary to json
+2. create morphology.json
+3. create the json wordset dictionary
+4. add transcription to a json-dictionary from other json-dictionary
 
 dsl-dictionary: [https://github.com/andrew2020wit/dsl-dictionary-parser](https://github.com/andrew2020wit/dsl-dictionary-parser)
 
-Some utils (uniter and other) are also there.
-
 ### Parser for Cambridge Advanced Learner's Dictionary 4th, (mdx format)
+
+Convert mdx dictionary to json format.
+
+additional scripts: 
+
+1. create favorites-examples list for 'Foreign Reader'.
+2. favorite-list-to-csv.js
 
 [https://github.com/andrew2020wit/cald-mdx-to-json](https://github.com/andrew2020wit/cald-mdx-to-json)
 
 ### JSON-dictionary utils
+
+1. You can use it to unite several json dictionaries.
+2. You can convert the json-dictionary to an anki text file (to import in Anki).
+   It also creates the copy of the json-dictionary with "externalId",
+   which you can use with Foreign Reader.
 
 [https://github.com/andrew2020wit/json-dictionary-utils](https://github.com/andrew2020wit/json-dictionary-utils)
 
 ## Changelog
 
 [Changelog](https://github.com/andrew2020wit/foreign-reader/blob/master/changelog.md)
+
+## Disclaimer
+
+This product has very limited support, it's not intended for mass use.
+I made it for my use, I use it, and I support it as much as I need.
+This product has no commercial plans.
 
 ## Licence
 
@@ -272,6 +293,9 @@ Some utils (uniter and other) are also there.
 - Don't include it (or part of it) in any other application/library/product/service.
 - Don't share modified copies.
 - You can use it without paying accordingly to this Licence.
+- It uses Google Analytics to collect statistic data.
+  See [https://en.wikipedia.org/wiki/Google_Analytics](https://en.wikipedia.org/wiki/Google_Analytics)
+  for details.
 - This application is provided "AS IS".
 - The author of this application doesn't provide any guarantees.
 

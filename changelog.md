@@ -1,5 +1,6 @@
 # Foreign Reader: Changelog
 
+- 2024.11.10 hideMenu options for dictionary viewer
 - 2024.11.09 added Google Analytics
 - 2024.11.04 anki connect rework
 - 2024.10.05 Updated to angular-17

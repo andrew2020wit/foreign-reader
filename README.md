@@ -139,7 +139,8 @@ At the moment I don't support the mobile version because I don't use it.
 
 You can use web-url to search %s:
 
-https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?term=%s
+https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?term=framework
+https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?hideInput=true&hideMenu=true&term=framework
 
 https://andrew2020wit.github.io/foreign-reader/create-example?add=%s
 

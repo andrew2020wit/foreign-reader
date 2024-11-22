@@ -129,11 +129,9 @@ For example "Microsoft Andrew Online (Natural)"
 ## Mobile
 
 If screen width < 1000px then it is in mobile mode.
-Use double click (touch) to show pop-up dictionary.
+Use double click to show pop-up dictionary.
 
 Use customization to adjust font-size.
-
-At the moment I don't support the mobile version because I don't use it.
 
 ## Urls-tip
 
@@ -144,8 +142,7 @@ https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?hideInput=true&
 
 https://andrew2020wit.github.io/foreign-reader/create-example?add=%s
 
-with (for
-example) [selection-search chrome-extension](https://chromewebstore.google.com/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)
+with (for example) [selection-search chrome-extension](https://chromewebstore.google.com/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe)
 
 (see its settings)
 

@@ -289,6 +289,10 @@ additional scripts:
 
 [https://github.com/andrew2020wit/json-dictionary-utils](https://github.com/andrew2020wit/json-dictionary-utils)
 
+## Foreign Reader Synchronization Server
+
+To do
+
 ## Changelog
 
 [Changelog](https://github.com/andrew2020wit/foreign-reader/blob/master/changelog.md)

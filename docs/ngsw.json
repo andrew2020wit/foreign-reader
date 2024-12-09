@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1733672904799,
+  "timestamp": 1733729860347,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "/foreign-reader/341.94c640b49d4aec66.js",
         "/foreign-reader/52.6a471eda89a9b850.js",
         "/foreign-reader/529.2e5914fa391c0e59.js",
-        "/foreign-reader/622.270025e1755ca67d.js",
+        "/foreign-reader/622.fe42d803ac40e826.js",
         "/foreign-reader/631.06495cfbd19e4c0d.js",
         "/foreign-reader/722.c450afee21f3afb6.js",
         "/foreign-reader/765.ac34aa6b91291200.js",
@@ -24,14 +24,14 @@
         "/foreign-reader/791.c65a6ed8721296eb.js",
         "/foreign-reader/820.5a58765de42a5a35.js",
         "/foreign-reader/823.22263a2c6b2f1c69.js",
-        "/foreign-reader/898.82eed596f2dee09e.js",
+        "/foreign-reader/898.7a5f6ae34d49c0a9.js",
         "/foreign-reader/common.6683d38b19787b3a.js",
         "/foreign-reader/favicon.ico",
         "/foreign-reader/index.html",
-        "/foreign-reader/main.bfde3d1dd6238d29.js",
+        "/foreign-reader/main.206082c062587647.js",
         "/foreign-reader/manifest.webmanifest",
         "/foreign-reader/polyfills.d61743c4b42f5239.js",
-        "/foreign-reader/runtime.6dab6bc9a8e081ea.js",
+        "/foreign-reader/runtime.ed0af8e47a8b96bf.js",
         "/foreign-reader/styles.fd3b279d357345c9.css"
       ],
       "patterns": []
@@ -71,7 +71,7 @@
     "/foreign-reader/341.94c640b49d4aec66.js": "36702607ee73e9c500cc8179b9b0d178ce145507",
     "/foreign-reader/52.6a471eda89a9b850.js": "a6ee718a62b36b432f814247f58ae74cc89658b9",
     "/foreign-reader/529.2e5914fa391c0e59.js": "ac125505983046f1248e383e4e26e9b21eacfa76",
-    "/foreign-reader/622.270025e1755ca67d.js": "5a8b40ff35ad32a46983f3ddb2d11061f924e3e8",
+    "/foreign-reader/622.fe42d803ac40e826.js": "6b2103d97982c1f6fb2cb1ca6494e730b3f09d41",
     "/foreign-reader/631.06495cfbd19e4c0d.js": "4ac06e6bb4f0d20fd8ab98ed71980b15efd00ca4",
     "/foreign-reader/722.c450afee21f3afb6.js": "745ad56a57d3446ffc173888e9f56c348ef82888",
     "/foreign-reader/765.ac34aa6b91291200.js": "96b087b28097aea6b1ecec35f40a778ca3e0c792",
@@ -79,7 +79,7 @@
     "/foreign-reader/791.c65a6ed8721296eb.js": "c19378109be2d65e4aef3dadb7e39c6334c5bf90",
     "/foreign-reader/820.5a58765de42a5a35.js": "3e57624d892c4c06f7dcee685ab6c7fe90b9525f",
     "/foreign-reader/823.22263a2c6b2f1c69.js": "a05be17000af158cb369730402876786e319ba4f",
-    "/foreign-reader/898.82eed596f2dee09e.js": "90dac0f78450855c21d58abf34754f8ed46c1f60",
+    "/foreign-reader/898.7a5f6ae34d49c0a9.js": "114ec222e181dc25a4078fbf0b88999233937fe7",
     "/foreign-reader/assets/background/bedge-grunge.png": "dda1bee7baeafd6f69d6492a4d28ca9a71335c70",
     "/foreign-reader/assets/background/billie-holiday.png": "0f85020bd3111833822da15efde27a4c7e8e7a79",
     "/foreign-reader/assets/background/binding-light.png": "44d4c6954099d6d340b53a885449fc48ab98849a",
@@ -98,11 +98,11 @@
     "/foreign-reader/assets/icons/icon-512x512.png": "66e7ea4f09dc06c11635d8c3f2980e044e79d579",
     "/foreign-reader/common.6683d38b19787b3a.js": "9af3b7c139a12b0c140b9fd4a746051bd8f73e51",
     "/foreign-reader/favicon.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
-    "/foreign-reader/index.html": "568defdf814b7454538cc27468731da9f041cb37",
-    "/foreign-reader/main.bfde3d1dd6238d29.js": "ab3ef15df35472f9860f3db37b3ac1d22088ca39",
+    "/foreign-reader/index.html": "170a6eb50694ac5313bf6310654cad6edab297f5",
+    "/foreign-reader/main.206082c062587647.js": "abf0e252ea8e56dea95ef48ec77382d63c4d6606",
     "/foreign-reader/manifest.webmanifest": "c57d7631a7ad9a8dc3f911297ad894b707dad211",
     "/foreign-reader/polyfills.d61743c4b42f5239.js": "b22cbee4a6fae104ca94a6611cbd296d290c21ea",
-    "/foreign-reader/runtime.6dab6bc9a8e081ea.js": "0c313faf5ed4f3276dad11aefc005ad4b3779bd7",
+    "/foreign-reader/runtime.ed0af8e47a8b96bf.js": "04742b51dfd542068d177c378f4433c23f116d54",
     "/foreign-reader/styles.fd3b279d357345c9.css": "fa52f60c78782c201e5041ea387fa45646bd7b76"
   },
   "navigationUrls": [

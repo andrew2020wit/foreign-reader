@@ -289,9 +289,9 @@ additional scripts:
 
 [https://github.com/andrew2020wit/json-dictionary-utils](https://github.com/andrew2020wit/json-dictionary-utils)
 
-## Foreign Reader Synchronization Server
+## Foreign Reader Synchronization Server (concept)
 
-To do
+[https://github.com/andrew2020wit/foreign-reader-synchronization-server](https://github.com/andrew2020wit/foreign-reader-synchronization-server)
 
 ## Changelog
 

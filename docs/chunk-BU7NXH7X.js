@@ -1,0 +1,1 @@
+var r=function(e){return e.Book="book",e.EditBookHeader="edit-book-header",e.Settings="settings",e.DictionaryViewer="dictionary-viewer",e.CreateExample="create-example",e.FavoriteExamples="favorite-examples",e.FavoriteWords="favorite-words",e}(r||{});export{r as a};

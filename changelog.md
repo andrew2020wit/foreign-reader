@@ -1,5 +1,8 @@
 # Foreign Reader: Changelog
 
+- 2024.20.12 autofocus for popup menu input.
+- 2024.20.12 fix progress bar
+- 2024.20.12 Updated to angular-18
 - 2024.12.03 mobile css fix
 - 2024.11.10 hideMenu options for dictionary viewer
 - 2024.11.09 added Google Analytics

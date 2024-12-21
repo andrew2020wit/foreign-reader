@@ -131,6 +131,8 @@ For example "Microsoft Andrew Online (Natural)"
 If screen width < 1000px then it is in mobile mode.
 Use double click to show pop-up dictionary.
 
+I suggest to install it as application for mobile devices (from chrome menu). 
+
 Use customization to adjust font-size.
 
 ## Urls-tip
@@ -168,22 +170,6 @@ You can use [these](https://github.com/andrew2020wit/foreign-reader/tree/master/
 or other.
 
 Like: "url(https://andrew2020wit.github.io/foreign-reader/assets/background/fancy-deboss.png)" or "none"
-
-## The difference from  "Bilingua Dealer"
-
-This is a new version of [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
-
-New approach to show translation (from two columns to one text).
-
-The translated text is within the original text (the same paragraph).
-
-Changed book json format.
-
-The simpler way to create translation.
-
-Removed useless functionality: fragments, creating bilingua, subtitle-imports.
-
-New improvements.
 
 ## Favorite words and Anki connect
 
@@ -296,6 +282,22 @@ additional scripts:
 ## Changelog
 
 [Changelog](https://github.com/andrew2020wit/foreign-reader/blob/master/changelog.md)
+
+## The difference from  "Bilingua Dealer"
+
+This is a new version of [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
+
+New approach to show translation (from two columns to one text).
+
+The translated text is within the original text (the same paragraph).
+
+Changed book json format.
+
+The simpler way to create translation.
+
+Removed useless functionality: fragments, creating bilingua, subtitle-imports.
+
+New improvements.
 
 ## Licence
 

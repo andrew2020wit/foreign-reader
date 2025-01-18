@@ -306,9 +306,6 @@ New improvements.
 - Don't include it (or part of it) in any other application/library/product/service.
 - Don't share modified copies.
 - You can use it without paying accordingly to this Licence.
-- It uses Google Analytics to collect statistic data.
-  See [https://en.wikipedia.org/wiki/Google_Analytics](https://en.wikipedia.org/wiki/Google_Analytics)
-  for details.
 - This application is provided "AS IS".
 - The author of this application doesn't provide any guarantees.
 

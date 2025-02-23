@@ -1,5 +1,6 @@
 # Foreign Reader: Changelog
 
+- 2025.02.23 confirm for book delete, auto save before delete, css fix for home - mobile
 - 2024.12.20 autofocus for popup menu input.
 - 2024.12.20 fix progress bar
 - 2024.12.20 Updated to angular-18

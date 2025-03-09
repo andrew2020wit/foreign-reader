@@ -275,6 +275,16 @@ additional scripts:
 
 [https://github.com/andrew2020wit/json-dictionary-utils](https://github.com/andrew2020wit/json-dictionary-utils)
 
+### One click side panel dictionary (Chrome extension)
+
+It can "use wiktionary.org" or "https://andrew2020wit.github.io/foreign-reader/dictionary-viewer" as a dictionary.
+
+[https://github.com/andrew2020wit/dictionary-sidebar-chrome-extension](https://github.com/andrew2020wit/dictionary-sidebar-chrome-extension)
+
+[https://chromewebstore.google.com/detail/one-click-side-panel-dict/bihbnoacpbepagocdgpghehbdeacdfjh](https://chromewebstore.google.com/detail/one-click-side-panel-dict/bihbnoacpbepagocdgpghehbdeacdfjh)
+
+
+
 ## Foreign Reader Synchronization Server (concept)
 
 [https://github.com/andrew2020wit/foreign-reader-synchronization-server](https://github.com/andrew2020wit/foreign-reader-synchronization-server)

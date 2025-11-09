@@ -2,8 +2,6 @@
 
 [https://andrew2020wit.github.io/foreign-reader/](https://andrew2020wit.github.io/foreign-reader/)
 
-[https://youtu.be/1YP31gjr-Es](https://youtu.be/1YP31gjr-Es)
-
 ## Intro
 
 Foreign Reader is a web-application to read foreign books (texts) and to learn foreign languages.

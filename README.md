@@ -4,10 +4,7 @@
 
 ## Intro
 
-Foreign Reader is a web-application to read foreign books (texts) and to learn foreign languages.
-
-It's a book reader, which has built-in dictionary and translation functionality.
-It also has special functionality to learn vocabulary.
+Foreign Reader a simple book reader, which has built-in dictionary and translation functionality.
 
 It stores all data locally and uses PWA-technology, so you can use it without Internet.
 
@@ -21,7 +18,7 @@ There are related projects to convert some dictionary into json-format.
 
 ## Books
 
-You have to create your own books from txt-file, srt-file, or epub-file.
+You have to create your own books from txt-file, or epub-file.
 
 But, to try this application, you can also take books from here:
 
@@ -46,13 +43,8 @@ It supports multiple bookmarks and automatically remembers last position.
 
 It provides integration with translation.
 
-It can be integrated with outer dictionary (like GoldenDict) via auto-coping to clipboard.
-
 It has a built-in dictionary viewer, which support json-format dictionaries.
 Some tools and dictionary was created to support json-format dictionaries.
-
-It has a functionality for memory-cards like Anki-card.
-You can easily create memory-cards (by one click) from dictionary-examples.
 
 ### Dictionary functionality
 
@@ -97,22 +89,7 @@ You can translate your book:
 - you have to translate it with google-translate (for documents).
 - import the translation (the same format).
 
-Look at youtube-video for details.
-
 Then you can click on lines to see translation.
-
-## Favorite Examples are similar to Anki functionality.
-
-Hot keys are applied only for first example (see tooltip).
-'space'-key - show info.
-
-You can export-import list - see settings.
-
-#### See also:
-
-create favorites-examples list from CALD dictionary:
-
-[create-favorites-list.js](https://github.com/andrew2020wit/cald-mdx-to-json)
 
 ## SpeechEngine
 
@@ -169,71 +146,6 @@ or other.
 
 Like: "url(https://andrew2020wit.github.io/foreign-reader/assets/background/fancy-deboss.png)" or "none"
 
-## Favorite words and Anki connect
-
-![favorite-words](imgs/favorite-words.png)
-
-See: [https://foosoft.net/projects/anki-connect/](https://foosoft.net/projects/anki-connect/)
-
-You can create a list of favorite words. This application provide functionality to find and mark cards in Anki.
-
-It was created to deal with a very huge anki-deck, which is made from a dictionary.
-
-You must install anki-connect and configure it: add "https://andrew2020wit.github.io" to "webCorsOriginList".
-
-![configure-anki-connect](imgs/configure-anki-connect.png)
-
-An anki deck must contain notes with field (ignore "value" - it's an anki-entity):
-
-```typescript
-export interface ICardFields {
-    def: {
-        value: string;
-    };
-    exampleId?: {
-        value: string;
-    };
-    exampleText: {
-        value: string;
-    };
-    freq?: {
-        value: string;
-    };
-    freq2?: {
-        value: string;
-    };
-    term: {
-        value: string;
-    };
-    pos: {
-        value: string;
-    };
-    sensenum?: {
-        value: string;
-    };
-}
-```
-
-### ExternalId
-
-if "externalId" is "on" (the settings), and the example (from a dictionary) has field "externalId",
-then, instead to add the example to favorite examples,
-(from dictionary widget) it connects to Anki,
-find the card with this id ("id"-field of an anki note), and:
-
-1. forget this card
-2. answer this card with "ease: 1" (learn again)
-
-You can immediately find it in "learning card state". You will see this card after some time.
-
-![configure-anki-connect](imgs/learn-card.png)
-
-See also: "Dictionary to Anki" - You can convert the json-dictionary to an anki text file (to import in Anki).
-It also creates the copy of the json-dictionary with "externalId", which you can use
-with Foreign Reader.
-
-[https://github.com/andrew2020wit/json-dictionary-utils](https://github.com/andrew2020wit/json-dictionary-utils)
-
 ## Related projects
 
 ### Convert epub-files to json files for Foreign Reader with bing-translate (auto translate)
@@ -281,31 +193,9 @@ It can "use wiktionary.org" or "https://andrew2020wit.github.io/foreign-reader/d
 
 [https://chromewebstore.google.com/detail/one-click-side-panel-dict/bihbnoacpbepagocdgpghehbdeacdfjh](https://chromewebstore.google.com/detail/one-click-side-panel-dict/bihbnoacpbepagocdgpghehbdeacdfjh)
 
-
-
-## Foreign Reader Synchronization Server (concept)
-
-[https://github.com/andrew2020wit/foreign-reader-synchronization-server](https://github.com/andrew2020wit/foreign-reader-synchronization-server)
-
 ## Changelog
 
 [Changelog](https://github.com/andrew2020wit/foreign-reader/blob/master/changelog.md)
-
-## The difference from  "Bilingua Dealer"
-
-This is a new version of [Bilingua Dealer](https://github.com/andrew2020wit/bilingua-dealer)
-
-New approach to show translation (from two columns to one text).
-
-The translated text is within the original text (the same paragraph).
-
-Changed book json format.
-
-The simpler way to create translation.
-
-Removed useless functionality: fragments, creating bilingua, subtitle-imports.
-
-New improvements.
 
 ## Licence
 

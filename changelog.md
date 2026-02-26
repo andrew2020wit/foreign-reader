@@ -1,5 +1,10 @@
 # Foreign Reader: Changelog
 
+- 2026.02.26 some improvement for desktop view
+- 2026.02.26 v3: new feature: external online dictionary, see settings. 
+- 2026.02.26 v3: fix: restore the current book position after window resizing
+- 2026.02.26 v3: remove srt import, favorite words, examples, some settings,
+- 2026.02.26 v3: update angular v19 => v20
 - 2025.11.04 the empty paragraph is changed, mobile css fix.
 - 2025.02.23 confirm for book delete, auto save before delete, css fix for home - mobile
 - 2024.12.20 autofocus for popup menu input.

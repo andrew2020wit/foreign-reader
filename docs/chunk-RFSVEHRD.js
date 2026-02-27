@@ -1,4 +1,4 @@
-import{T as a,ha as s}from"./chunk-T5QFYCNY.js";var e="%%pattern%%";var n=`
+import{T as a,ha as s}from"./chunk-AQQ2OTRN.js";var e="%%pattern%%";var n=`
 [Et] https://www.etymonline.com/search?type=all&q=${e}
 [Ld] https://www.ldoceonline.com/dictionary/${e}
 [Cm] https://dictionary.cambridge.org/dictionary/english/${e}

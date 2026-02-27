@@ -38,6 +38,7 @@ export interface IDictionaryTerm {
 export interface IArticle {
   dictionaryName?: string;
   partOfSpeech: string;
+  etymology?: string;
   transcription?: string;
   definitions: IDefinition[];
 }

@@ -1,0 +1,41 @@
+Transcribe this audio file to text, and convert text to the json format:
+
+{
+  "jsonContentDescription": "ForeignReaderBook",
+  "book": {
+    "id": "{{current timestamp}}",
+    "title": "{{current audio-file-name}}",
+    "description": "",
+    "content": [
+      {
+        "id": 0,
+        "text": [
+          "sentense 1",
+          "sentense 2"
+        ]
+      },
+      {
+        "id": 1,
+        "text": [
+          "sentense 3",
+          "sentense 4"
+        ]
+      }
+    ],
+    "headers": [],
+    "markedItems": [],
+    "translation": {
+      "0-0": "sentense 1 translation",
+      "0-1": "sentense 2 translation",
+      "1-0": "sentense 3 translation",
+      "1-1": "sentense 4 translation"
+    }
+  }
+}
+
+there:
+{{current timestamp}} - current timestamp
+{{current audio-file-name}} - current audio-file-name
+sentense 1/2/3/4 - sentense from transcriptions
+"sentense 1 translation" - transleted sentenses to Ukrainian
+"0-0" - are indexes in arrays

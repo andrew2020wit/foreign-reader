@@ -37,5 +37,6 @@ there:
 {{current timestamp}} - current timestamp
 {{current audio-file-name}} - current audio-file-name
 sentense 1/2/3/4 - sentense from transcriptions
-"sentense 1 translation" - transleted sentenses to Ukrainian
+"sentense 1 translation" - translated sentenses to Ukrainian
 "0-0" - are indexes in arrays
+Do it for all audio file.

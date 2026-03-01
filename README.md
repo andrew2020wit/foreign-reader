@@ -2,6 +2,8 @@
 
 [https://andrew2020wit.github.io/foreign-reader/](https://andrew2020wit.github.io/foreign-reader/)
 
+[https://youtu.be/A9d6I1Und40](https://youtu.be/A9d6I1Und40)
+
 ## Intro
 
 Foreign Reader a simple book reader, which has built-in dictionary and translation functionality.

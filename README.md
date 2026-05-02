@@ -6,13 +6,11 @@
 
 ## Intro
 
-Foreign Reader a simple book reader, which has built-in dictionary and translation functionality.
+Foreign Reader is a simple book reader with built-in dictionary and translation functionality.
 
-It stores all data locally and uses PWA-technology, so you can use it without Internet.
+It stores all data locally, so you can use it without Internet.
 
 It's optimized for very big books.
-
-You don't have to pay for it, and it doesn't show advertise.
 
 There are related projects to convert some dictionary into json-format.
 
@@ -81,36 +79,6 @@ index: index for replacement ( - 1 => from end)
 See example /dictionary/morphology-replace-rules.json
 
 And see /dictionary/utils/compute-morphology-rule(.spec).ts
-
-## Translation
-
-You can translate your book:
-
-- go to menu (in book) - translation tab
-- export for translation - it will create a special text file
-- you have to translate it with google-translate (for documents).
-- import the translation (the same format).
-
-Then you can click on lines to see translation.
-
-## SpeechEngine
-
-To use SpeechEngine go to menu (book's page), audio-tab, and select voice.
-
-At the moment Google voices have a bug - it doesn't support a long text,
-so don't use Google voices.
-
-On Windows I highly recommend to try Edge-browser and Microsoft **online** voices.
-For example "Microsoft Andrew Online (Natural)"
-
-## Mobile
-
-If screen width < 1000px then it is in mobile mode.
-Use double click to show pop-up dictionary.
-
-I suggest to install it as application for mobile devices (from chrome menu). 
-
-Use customization to adjust font-size.
 
 ## Urls-tip
 

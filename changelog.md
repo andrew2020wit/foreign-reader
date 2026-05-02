@@ -1,6 +1,9 @@
 # Foreign Reader: Changelog
 
-- 2026.02.26 some improvement for desktop view
+- 2026.05.02 removed SpeechEngine, removed the translation menu, use utils instead.
+                Add support for a local sync book position server.
+                Angular has been updated, some code refactoring.
+- 2026.02.26 some improvements for a desktop view
 - 2026.02.26 v3: new feature: external online dictionary, see settings. 
 - 2026.02.26 v3: fix: restore the current book position after window resizing
 - 2026.02.26 v3: remove srt import, favorite words, examples, some settings,

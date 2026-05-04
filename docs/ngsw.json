@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1777734150282,
+  "timestamp": 1777873307500,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -14,9 +14,9 @@
         "/foreign-reader/chunk-3FORO6VH.js",
         "/foreign-reader/chunk-4SGPFLJU.js",
         "/foreign-reader/chunk-56JZ4CQZ.js",
-        "/foreign-reader/chunk-5GEC7ZKY.js",
+        "/foreign-reader/chunk-5C3QEMUV.js",
         "/foreign-reader/chunk-5RGETHFF.js",
-        "/foreign-reader/chunk-BG6ZYUP4.js",
+        "/foreign-reader/chunk-BOB4QKMA.js",
         "/foreign-reader/chunk-ELY4YQEL.js",
         "/foreign-reader/chunk-IHI4L3KR.js",
         "/foreign-reader/chunk-NXOOR3AY.js",
@@ -27,7 +27,7 @@
         "/foreign-reader/chunk-Y6UZWZCR.js",
         "/foreign-reader/favicon.ico",
         "/foreign-reader/index.html",
-        "/foreign-reader/main-JBSG3FJD.js",
+        "/foreign-reader/main-4GATAZ5E.js",
         "/foreign-reader/manifest.webmanifest",
         "/foreign-reader/polyfills-5CFQRCPP.js",
         "/foreign-reader/styles-TW6X2HWT.css"
@@ -83,9 +83,9 @@
     "/foreign-reader/chunk-3FORO6VH.js": "f21147752148a97822937a975acd30a280ee534b",
     "/foreign-reader/chunk-4SGPFLJU.js": "7974e599ef20dadbcd68d21f1256e3178fd3f9a2",
     "/foreign-reader/chunk-56JZ4CQZ.js": "afc5b41f414fb4a614f35bd43fc66e84ce0c2de9",
-    "/foreign-reader/chunk-5GEC7ZKY.js": "15e924af08f965204d2382de6b27c9b5ca1f7341",
+    "/foreign-reader/chunk-5C3QEMUV.js": "d32446d6d7ea73e4bb8cd5a098a3ee7939c70b26",
     "/foreign-reader/chunk-5RGETHFF.js": "417d67589ec7035824c7792daf07efd8b6d7de7d",
-    "/foreign-reader/chunk-BG6ZYUP4.js": "2d1fa269de6dc491ec27e6afd1659bc234845b36",
+    "/foreign-reader/chunk-BOB4QKMA.js": "a0e1efbed995b1ffffc947c30fa5add78781eaaf",
     "/foreign-reader/chunk-ELY4YQEL.js": "062bf310e9aac92b5265c32eeee0f4c62e8e40eb",
     "/foreign-reader/chunk-IHI4L3KR.js": "403b75b8223bdbf30a4f23ac20f2a08536f3c892",
     "/foreign-reader/chunk-NXOOR3AY.js": "e1b9452f39a3babef1dba36a1e102a63693c887e",
@@ -95,8 +95,8 @@
     "/foreign-reader/chunk-X4ZIZC3B.js": "7c5cca67c3c334c0875a667e8be9aee52e4d3d29",
     "/foreign-reader/chunk-Y6UZWZCR.js": "735eef3aa6e2eb05f1aa7d7e2cfb2b821e4db07b",
     "/foreign-reader/favicon.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
-    "/foreign-reader/index.html": "7976544b047a93412c5d55be597bc6c1185064db",
-    "/foreign-reader/main-JBSG3FJD.js": "0bc99201d0e924855d9dd4e4709b991ae82903e5",
+    "/foreign-reader/index.html": "bf0d34c41644cd7777c66327383e27cca5c4f05e",
+    "/foreign-reader/main-4GATAZ5E.js": "ba6763632526587c49f2defee83ac5a58d52563b",
     "/foreign-reader/manifest.webmanifest": "c57d7631a7ad9a8dc3f911297ad894b707dad211",
     "/foreign-reader/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/foreign-reader/styles-TW6X2HWT.css": "a4fc57528455ba78f723216867caae7c828c4a03"

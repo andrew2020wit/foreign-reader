@@ -177,4 +177,4 @@ It can "use wiktionary.org" or "https://andrew2020wit.github.io/foreign-reader/d
 - This application is provided "AS IS".
 - The author of this application doesn't provide any guarantees.
 
-Copyright (c) 2023-2024 Andrii Faurash
+Copyright (c) 2023-2026 Andrii Faurash

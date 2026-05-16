@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778397728190,
+  "timestamp": 1778931495771,
   "index": "/foreign-reader/index.html",
   "assetGroups": [
     {
@@ -19,7 +19,7 @@
         "/foreign-reader/chunk-D4OSBL2W.js",
         "/foreign-reader/chunk-ELY4YQEL.js",
         "/foreign-reader/chunk-IHI4L3KR.js",
-        "/foreign-reader/chunk-MY2R3DCX.js",
+        "/foreign-reader/chunk-L557LBN3.js",
         "/foreign-reader/chunk-NXOOR3AY.js",
         "/foreign-reader/chunk-R4XSXRI6.js",
         "/foreign-reader/chunk-SNGSJHJ6.js",
@@ -27,7 +27,7 @@
         "/foreign-reader/chunk-Y6UZWZCR.js",
         "/foreign-reader/favicon.ico",
         "/foreign-reader/index.html",
-        "/foreign-reader/main-6WS256AB.js",
+        "/foreign-reader/main-HONIRE22.js",
         "/foreign-reader/manifest.webmanifest",
         "/foreign-reader/polyfills-5CFQRCPP.js",
         "/foreign-reader/styles-DNSHX4GW.css"
@@ -88,15 +88,15 @@
     "/foreign-reader/chunk-D4OSBL2W.js": "afb35488e555186d5137391923ada66d909742c4",
     "/foreign-reader/chunk-ELY4YQEL.js": "062bf310e9aac92b5265c32eeee0f4c62e8e40eb",
     "/foreign-reader/chunk-IHI4L3KR.js": "403b75b8223bdbf30a4f23ac20f2a08536f3c892",
-    "/foreign-reader/chunk-MY2R3DCX.js": "d6dd0d55a438e3eb0894bb23e5fb63b0434e3d9f",
+    "/foreign-reader/chunk-L557LBN3.js": "05767754e8a576fc14ec4eacf3b76ff81aecd734",
     "/foreign-reader/chunk-NXOOR3AY.js": "e1b9452f39a3babef1dba36a1e102a63693c887e",
     "/foreign-reader/chunk-R4XSXRI6.js": "203f65c10efa564129fd06288bf8c29892fe6294",
     "/foreign-reader/chunk-SNGSJHJ6.js": "04f368cf4b13b3b8c4b11e76fc0da67eec08552b",
     "/foreign-reader/chunk-X4ZIZC3B.js": "7c5cca67c3c334c0875a667e8be9aee52e4d3d29",
     "/foreign-reader/chunk-Y6UZWZCR.js": "735eef3aa6e2eb05f1aa7d7e2cfb2b821e4db07b",
     "/foreign-reader/favicon.ico": "411573b2ed96eb9d10359c7df89dfcfb6f3b14d8",
-    "/foreign-reader/index.html": "3278cf426ce949b1069cda2963aa9a0ef2dc3fdf",
-    "/foreign-reader/main-6WS256AB.js": "97322cb295e64d10aa62cc2492eee3525c4fa6c1",
+    "/foreign-reader/index.html": "16414b7a7d1c8662f923ed82bbd0631c878c6c51",
+    "/foreign-reader/main-HONIRE22.js": "5349b2b207e83e3de35ef69595a9721023bd7700",
     "/foreign-reader/manifest.webmanifest": "c57d7631a7ad9a8dc3f911297ad894b707dad211",
     "/foreign-reader/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/foreign-reader/styles-DNSHX4GW.css": "3f4b0f0e8a3a9d4d763538b863a5ca03da6e54b6"

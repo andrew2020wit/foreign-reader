@@ -96,8 +96,6 @@ with (for example) [selection-search chrome-extension](https://chromewebstore.go
 ### Hot-keys
 
 GoHome: 'Home', ShowMenu: '0', 'Escape', GoToNextItem: 'n', MarkIt: '1',
-EditChapterTitle: '9', GoToNextMark: 'm', GoToPrevMark: 'k'.
-TranslateOne - 'h'.
 
 ### About some custom styles
 

@@ -1,3 +1,4 @@
+- 2026.09.04 5.1.2 fix: restoreCurrentPositionAfterWindowResizing
 - 2026.08.31 5.1.0 settings: sync toggler
 - 2026.08.22 v5 technical rework, betta version
 - 2026.05.02 removed SpeechEngine, removed the translation menu, use utils instead.
